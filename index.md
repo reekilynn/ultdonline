@@ -49,8 +49,5 @@ The planned translation repository includes novels listed below.
 
 # Yuesia
 ## Yuesia: Game Script (2003.Dec.28)
-- Route: Mifuyu
-- Route: Arimi
 ## Yuesia: After (2010.Aug.29)
-- Main Text
 
