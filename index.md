@@ -33,9 +33,24 @@ The planned translation repository includes novels listed below.
 
 
 # Just in my Eyes
+- Main Text
+- Character Intro
+- TL Postscript
 
 # Twilight is Time For Magic
+- Main Text
+- TL Postscript
+
+# Meta Metabolic
+- Chapter 1
+- Chapter 2
+- Chapter 3
+- TL Postscript
 
 # Yuesia
-
+## Yuesia: Game Script (2003.Dec.28)
+- Route: Mifuyu
+- Route: Arimi
+## Yuesia: After (2010.Aug.29)
+- Main Text
 
