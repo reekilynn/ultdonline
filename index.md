@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Welcome to Ultd.online
 
-You can use the [editor on GitHub](https://github.com/reekilynn/ultdonline.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here is a repository for remastered SimpChn translation of novels created by Kunori Fumio.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The planned translation repository includes novels listed below.
 
-### Markdown
+# Sword Art Online
+## Sword Art Online (Web)
+### Sword Art Online 1: Aincrad (2002.Nov.29-2002.Dec.12)
+### Sword Art Online Ex1: 黒の剣士 (2003.Feb.12-2003.Feb.24)
+### Sword Art Online Ex2: Four Days (2003.Feb.24-2003.Jun.3)
+### Sword Art Online Ex3: ココロの温度 (2003.??.??)
+### Sword Art Online X1: #16.5 (2003.May.12)
+### Sword Art Online Ex3.1: サルビア (2003.Aug.10)
+### Sword Art Online 2: Fairy Dance (2003.Aug.??-2003.Nov.22)
+### Sword Art Online 3: 死铳 (2004.Jan.31-2004.May.14)
+### Sword Art Online Ex4: 絶剣 (2004.Jul.8-2004.Oct.10)
+### Sword Art Online Ex1.3: 赤鼻のトナカイ (2005.Dec.23-2005.Dec.29)
+### Sword Art Online Ex3.2: VRMMO開発秘話 (2006.??.??)
+### Sword Art Online 4: Alicization (2005.Jan.31-2008.Jul.25)
+#### Chapter 1-2: Introduction (2005.Jan.31-2005.Jul.15)
+#### Chapter 3: Underworld-Nord (2005.Jul.26-2005.Oct.9)
+#### Chapter 4: OceanTurtle (2005.Oct.18-2006.Jan.19)
+#### Chapter 5: Underworld-Academy (2006.Jan.20-2006.Feb.24)
+#### Chapter 6: Gabriel Miller (2006.Mar.2-2006.May.1)
+#### Chapter 7: Underworld-Cathedral (2006.May.16-2007.Sep.12)
+#### Chapter 8: War of Underworld (2007.Sep.15-2008.Jul.2)
+#### Epilogue: ALICE (2008.Jul.5-2008.Jul.25)
+#### Reader Comments and Kunori Responses (2008.Sep.12)
+### Sword Art Online: Character Votes
+#### Main Content
+#### Reverse Content
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Just in my Eyes
 
-# Header 1
-## Header 2
-### Header 3
+# Twilight is Time For Magic
 
-- Bulleted
-- List
+# Yuesia
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/reekilynn/ultdonline.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
