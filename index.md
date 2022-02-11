@@ -1,7 +1,6 @@
-## Welcome to Ultd.online
+# Welcome to Ultd.online
 
 Here is a repository for remastered SimpChn translation of novels created by Kunori Fumio.
-
 The planned translation repository includes novels listed below.
 
 # Sword Art Online
@@ -30,7 +29,6 @@ The planned translation repository includes novels listed below.
 ### Sword Art Online: Character Votes
 #### Main Content
 #### Reverse Content
-
 
 # Just in my Eyes
 - Main Text
