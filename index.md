@@ -3,32 +3,59 @@
 Here is a repository for remastered SimpChn translation of novels created by Kunori Fumio.
 The planned translation repository includes novels listed below.
 
-## Sword Art Online
-### Sword Art Online (Web)
-#### Sword Art Online 1: Aincrad (2002.Nov.29-2002.Dec.12)
-#### Sword Art Online Ex1: 黒の剣士 (2003.Feb.12-2003.Feb.24)
-#### Sword Art Online Ex2: Four Days (2003.Feb.24-2003.Jun.3)
-#### Sword Art Online Ex3: ココロの温度 (2003.??.??)
-#### Sword Art Online X1: #16.5 (2003.May.12)
-#### Sword Art Online Ex3.1: サルビア (2003.Aug.10)
-#### Sword Art Online 2: Fairy Dance (2003.Aug.??-2003.Nov.22)
-#### Sword Art Online 3: 死铳 (2004.Jan.31-2004.May.14)
-#### Sword Art Online Ex4: 絶剣 (2004.Jul.8-2004.Oct.10)
-#### Sword Art Online Ex1.3: 赤鼻のトナカイ (2005.Dec.23-2005.Dec.29)
-#### Sword Art Online Ex3.2: VRMMO開発秘話 (2006.??.??)
-#### Sword Art Online 4: Alicization (2005.Jan.31-2008.Jul.25)
-##### Chapter 1-2: Introduction (2005.Jan.31-2005.Jul.15)
-##### Chapter 3: Underworld-Nord (2005.Jul.26-2005.Oct.9)
-##### Chapter 4: OceanTurtle (2005.Oct.18-2006.Jan.19)
-##### Chapter 5: Underworld-Academy (2006.Jan.20-2006.Feb.24)
-##### Chapter 6: Gabriel Miller (2006.Mar.2-2006.May.1)
-##### Chapter 7: Underworld-Cathedral (2006.May.16-2007.Sep.12)
-##### Chapter 8: War of Underworld (2007.Sep.15-2008.Jul.2)
-##### Epilogue: ALICE (2008.Jul.5-2008.Jul.25)
-##### Reader Comments and Kunori Responses (2008.Sep.12)
-#### Sword Art Online: Character Votes
-##### Main Content
-##### Reverse Content
+## Sword Art Online (Web)
+### Sword Art Online 1: Aincrad (2002.Nov.29-2002.Dec.12)
+### Sword Art Online Ex1: 黒の剣士 (2003.Feb.12-2003.Feb.24)
+### Sword Art Online Ex2: Four Days (2003.Feb.24-2003.Jun.3)
+### Sword Art Online Ex3: ココロの温度 (2003.??.??)
+### Sword Art Online X1: #16.5 (2003.May.12)
+### Sword Art Online Ex3.1: サルビア (2003.Aug.10)
+### Sword Art Online 2: Fairy Dance (2003.Aug.??-2003.Nov.22)
+### Sword Art Online 3: 死铳 (2004.Jan.31-2004.May.14)
+### Sword Art Online Ex4: 絶剣 (2004.Jul.8-2004.Oct.10)
+### Sword Art Online Ex1.3: 赤鼻のトナカイ (2005.Dec.23-2005.Dec.29)
+### Sword Art Online Ex3.2: VRMMO開発秘話 (2006.??.??)
+### Sword Art Online 4: Alicization (2005.Jan.31-2008.Jul.25)
+#### Chapter 1-2: Introduction (2005.Jan.31-2005.Jul.15)
+#### Chapter 3: Underworld-Nord (2005.Jul.26-2005.Oct.9)
+#### Chapter 4: OceanTurtle (2005.Oct.18-2006.Jan.19)
+#### Chapter 5: Underworld-Academy (2006.Jan.20-2006.Feb.24)
+#### Chapter 6: Gabriel Miller (2006.Mar.2-2006.May.1)
+#### Chapter 7: Underworld-Cathedral (2006.May.16-2007.Sep.12)
+#### Chapter 8: War of Underworld (2007.Sep.15-2008.Jul.2)
+#### Epilogue: ALICE (2008.Jul.5-2008.Jul.25)
+#### Reader Comments and Kunori Responses (2008.Sep.12)
+### Sword Art Online: Face To Face Interview
+#### Main Content
+#### Reverse Content
+
+## Sword Art Online (Bunko)
+### Sword Art Online Vol.01: Aincrad
+### Sword Art Online Vol.02: Aincrad
+### Sword Art Online Vol.03: Fairy Dance
+### Sword Art Online Vol.04: Fairy Dance
+### Sword Art Online Vol.05: Phantom Bullet
+### Sword Art Online Vol.06: Phantom Bullet
+### Sword Art Online Vol.07: Mother's Rosario
+### Sword Art Online Vol.08: Early and Late
+### Sword Art Online Vol.09: Alicization Beginning
+### Sword Art Online Vol.10: Alicization Running
+### Sword Art Online Vol.11: Alicization Turning
+### Sword Art Online Vol.12: Alicization Rising
+### Sword Art Online Vol.13: Alicization Dividing
+### Sword Art Online Vol.14: Alicization Uniting
+### Sword Art Online Vol.15: Alicization Invading
+### Sword Art Online Vol.16: Alicization Exploding
+### Sword Art Online Vol.17: Alicization Awakening
+### Sword Art Online Vol.18: Alicization Lasting
+### Sword Art Online Vol.19: Moon Cradle
+### Sword Art Online Vol.20: Moon Cradle
+### Sword Art Online Vol.21: Unital Ring I
+### Sword Art Online Vol.22: Kiss and Fly
+### Sword Art Online Vol.23: Unital Ring II
+### Sword Art Online Vol.24: Unital Ring III
+### Sword Art Online Vol.25: Unital Ring IV
+### Sword Art Online Vol.26: Unital Ring V
 
 ## Just in my Eyes
 - Main Text
