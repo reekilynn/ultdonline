@@ -11,13 +11,13 @@ See [here](sao-web/index.md) for details.
 The commercial version released via Dengeki Bunko since Apr 2009.
 See [here](sao-bunko/index.md) for details.
 
-## Just in my Eyes
+## Just in my eyes
 A *near-future SF* and *siscon* novel (**Not Finished**) written in Nov 2002.
 - Main Text
 - Character Intro
 - TL Postscript
 
-## Twilight is Time For Magic
+## Twilight is the time For magic
 A *school* and *magic* and *yuri* novel (**Prologue Only**) written in Jan 2003.
 - Main Text
 - TL Postscript
@@ -29,11 +29,11 @@ A *meta-dimension* and *self-definition* novel (**Not Finished**) written in 200
 - Chapter 3
 - TL Postscript
 
-## Yuesia
+## Yuexiang
 A *trans-gender* and *yuri* and *siscon* visual novel released on Dec 2003.
 
 Kunori Fumio wrote the story and Kurusu Tatsuya (ponz.info) illustrated the images.
 
 The afterstory sold on Comitia93 (Aug 2010) was also included.
-### Yuesia: Game Script (2003.Dec.28)
-### Yuesia: After (2010.Aug.29)
+### Yuexiang: Main Story (2003.Dec.28)
+### Yuexiang: After (2010.Aug.29)
