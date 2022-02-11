@@ -4,6 +4,8 @@ This page lists *Sword Art Online* series written since Nov 2002 to Jul 2008.
 
 *Sword Art Online X2* sold on Comitia92 (May 2010) was also included because of its relationship with web edition.
 
+In early 2009, Kunori Fumio packed the web edition into a zipped archive for distribution, and these novels were removed from WordGear website.
+
 ## Sword Art Online 1: Aincrad (2002.Nov.29-2002.Dec.12)
 ## Sword Art Online Ex1: 黒の剣士 (2003.Feb.12-2003.Feb.24)
 ## Sword Art Online Ex2: Four Days (2003.Feb.24-2003.Jun.3)
@@ -13,7 +15,7 @@ This page lists *Sword Art Online* series written since Nov 2002 to Jul 2008.
 ## Sword Art Online 2: Fairy Dance (2003.Aug.??-2003.Nov.22)
 ## Sword Art Online 3: 死铳 (2004.Jan.31-2004.May.14)
 ## Sword Art Online Ex4: 絶剣 (2004.Jul.8-2004.Oct.10)
-## Sword Art Online Ex1.3: 赤鼻のトナカイ (2005.Dec.23-2005.Dec.29)
+## Sword Art Online Ex6: 赤鼻のトナカイ (2005.Dec.23-2005.Dec.29)
 ## Sword Art Online Ex3.2: VRMMO開発秘話 (2006.??.??)
 ## Sword Art Online 4: Alicization (2005.Jan.31-2008.Jul.25)
 ### Chapter 1: Prologue: Underworld (2005.Jan.31-2005.Jun.14)
