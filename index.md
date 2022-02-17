@@ -11,6 +11,14 @@ See [here](sao-web/index.md) for details.
 The commercial version released via Dengeki Bunko since Apr 2009.
 See [here](sao-bunko/index.md) for details.
 
+## Chouzetsu Kasoku Burst Linker
+The original web published version of **Accel World** Vol.01 in Oct 2007.
+
+## Ultd.Online
+The very first source of **Sword Art Online** as an **R-18** manga published on Oct 2000.
+
+The pen-name *Hayashi Mario* was used in Kunori's period as a manga creator.
+
 ## Just in my eyes
 A *near-future SF* and *siscon* novel (**Not Finished**) written in Nov 2002.
 - [Main Text](just/maintext.md)
@@ -30,7 +38,7 @@ A *meta-dimension* and *self-definition* novel (**Not Finished**) written in 200
 - [TL Postscript](metabolic/postscript.md)
 
 ## Yuexiang
-A *trans-gender* and *yuri* and *siscon* visual novel released on Dec 2003.
+A *trans-gender* and *yuri* and *siscon* **R-18** visual novel released on Dec 2003.
 
 Kunori Fumio wrote the story and Kurusu Tatsuya (ponz.info) illustrated the images.
 
