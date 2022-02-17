@@ -40,3 +40,4 @@ The afterstory sold on Comitia93 (Aug 2010) was also included.
 - [Introduction](yuesia/introduction.md)
 
 ### Yuexiang: After (2010.Aug.29)
+- [Main Text](yuesia/yuesia-after.md)
