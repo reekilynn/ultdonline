@@ -19,6 +19,8 @@ The very first source of **Sword Art Online** as an **R-18** manga published on 
 
 The pen-name *Hayashi Mario* was used in Kunori's period as a manga creator.
 
+- [Main Text](ultd/maintext.md)
+
 ## Just in my eyes
 A *near-future SF* and *siscon* novel (**Not Finished**) written in Nov 2002.
 - [Main Text](just/maintext.md)
