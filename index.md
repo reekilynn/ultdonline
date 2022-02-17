@@ -19,7 +19,7 @@ A *near-future SF* and *siscon* novel (**Not Finished**) written in Nov 2002.
 
 ## Twilight is the time For magic
 A *school* and *magic* and *yuri* novel (**Prologue Only**) written in Jan 2003.
-- Main Text
+- [Main Text](yuugure/maintext.md)
 - TL Postscript
 
 ## Meta Metabolic
