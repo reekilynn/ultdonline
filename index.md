@@ -24,9 +24,9 @@ A *school* and *magic* and *yuri* novel (**Prologue Only**) written in Jan 2003.
 
 ## Meta Metabolic
 A *meta-dimension* and *self-definition* novel (**Not Finished**) written in 2005.
-- [Chapter 1](metabolic/chap1.md)
-- [Chapter 2](metabolic/chap2.md)
-- [Chapter 3](metabolic/chap3.md)
+- [Chapter 1](metabolic/chap01.md)
+- [Chapter 2](metabolic/chap02.md)
+- [Chapter 3](metabolic/chap03.md)
 - [TL Postscript](metabolic/postscript.md)
 
 ## Yuexiang
