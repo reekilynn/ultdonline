@@ -35,5 +35,8 @@ A *trans-gender* and *yuri* and *siscon* visual novel released on Dec 2003.
 Kunori Fumio wrote the story and Kurusu Tatsuya (ponz.info) illustrated the images.
 
 The afterstory sold on Comitia93 (Aug 2010) was also included.
+
 ### Yuexiang: Main Story (2003.Dec.28)
+- [Introduction](yuesia/introduction.md)
+
 ### Yuexiang: After (2010.Aug.29)
