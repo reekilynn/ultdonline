@@ -13,7 +13,7 @@ See [here](sao-bunko/index.md) for details.
 
 ## Just in my eyes
 A *near-future SF* and *siscon* novel (**Not Finished**) written in Nov 2002.
-- Main Text
+- [Main Text](just/maintext.md)
 - Character Intro
 - TL Postscript
 
