@@ -87,3 +87,7 @@
 　　虽然看上去是智力型眼镜男，但不知为何学生们都很害怕他。
   
 　　对真冬采取极为支配性的态度。
+
+## 游戏流程
+
+![flowchart](yuesia-flowchart.jpg "Game Flowchart")
