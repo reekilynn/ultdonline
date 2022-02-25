@@ -90,4 +90,4 @@
 
 ## 游戏流程
 
-![flowchart](yuesia-flowchart.jpg "Game Flowchart")
+![flowchart](yuesia-flowchart.png "Game Flowchart")
