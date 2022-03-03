@@ -1,5 +1,13 @@
 # Short Research Archive
 
+## 2022.Mar.1 (Theme: Ribosome and Yui)
+
+原始生物的70S Ribosome（30S SSU+50S LSU）相当于SAO刚开服时的MHCP001。
+
+基础真核生物的80S Ribosome（40S SSU+60SLSU，包含了eL蛋白和es-s/l rRNA之间的互相作用）相当于经历了SAO至UW一系列事件后的结衣。
+
+哺乳动物的80S Ribosome（在上一基础上又产生了es-s/l rRNA内部的相互作用，以及游离的es-l rRNA）相当于接下来在UR中发生“终极进化”的结衣——或者说类似“莉莉丝”的存在。
+
 ## 2022.Feb.27 (Theme: Alice)
 
 不论是原本的小爱丽丝还是成为整合骑士的大爱丽丝，相对underworld而言都是接近于“异物”的存在。
