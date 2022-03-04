@@ -32,6 +32,8 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [从EVA看SAO和AW——SAO/AW综合分析及推断（写在AW26发售之前）](res-220203-eva.md) (2022.Feb.3)
 
+[针对doki《对加速世界后续的一些猜想》的全方位回复](res-220303-answer-doki.md) (2022.Mar.3)
+
 # 短篇合集
 
 [Stage1st SAO专楼 Part.1](res-archive-s1-sao-part1.md) (2012)
