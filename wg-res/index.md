@@ -8,6 +8,30 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [SAO: Alicization Web翻译后记](res-130412-sao-uw-post.md) (2013.Apr.12)
 
+[Brain Burst程序理论模型及其运作原理](res-131011-bbmodel.md) (2013.Oct.11)
+
+[基于AW15对黑雪姬的一些推断](res-131015-kuroyuki.md) (2013.Oct.15)
+
+[Brain Burst 2039的基本运作模型+a](res-160611-bbmodel2.md) (2016.Jun.11)
+
+[基于aw21卷情报补充的系统性推测](res-161110-aw21-rev.md) (2016.Nov.10)
+
+[aw21卷后的系统性白王解析+脑洞](res-170202-cosmos.md) (2017.Feb.2)
+
+[说一下SAO原作存在的一些问题](res-190324-criticize-uw.md) (2019.Mar.24)
+
+[sao设定上的漏洞](res-190327-sao-issues-back.md) (2019.Mar.27)
+
+[基于SAO1-21和AW1-24的系统性解析(重点：结衣与黑白姐妹)](res-190811-yui.md) (2019.Aug.11)
+
+[关于后续剧情的推测和整理——写在SAO26发售之前](res-210806-sao26-prev.md) (2021.Aug.6)
+
+[SAOP剧场版PV初步解析](res-210916-saop.md) (2021.Sep.16)
+
+[写在aw26发售前的一些推断](res-220109-aw26-prev.md) (2022.Jan.9)
+
+[从EVA看SAO和AW——SAO/AW综合分析及推断（写在AW26发售之前）](res-220203-eva.md) (2022.Feb.3)
+
 # 短篇合集
 
 [Stage1st AW专楼 #1](res-archive-s1-aw-part1.md) (2013)
