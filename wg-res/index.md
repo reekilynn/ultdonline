@@ -16,7 +16,7 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 ***
 
-[贴吧讨论](res-archive-tb.md.md)
+[贴吧讨论](res-archive-tb.md)
 
 ***
 
