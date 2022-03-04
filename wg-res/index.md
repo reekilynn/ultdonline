@@ -1,4 +1,4 @@
-# reekilynn's archive for wordgear research
+# WordGear Research Archive
 
 Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
