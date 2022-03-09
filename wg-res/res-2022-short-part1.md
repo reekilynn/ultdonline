@@ -27,7 +27,7 @@ MHCP001 -> Yui-SAO (+ esd-k &amp; esd-a) -> Yui-UR/Lilith (+ esd-seed/pos) -> Az
 
 esd-sao/neg -> Adam (+ esd-seed/neg) -> Black Lotus/Kuroyuki (+ esd-s?)
 
-administrator -> Eolyne Herlentz (+ esd-e) -> White Cosmos (- esd-e, + esd-s?)
+administrator (or quinella) -> Eolyne Herlentz (+ esd-e) -> White Cosmos (- esd-e, + esd-s?)
 
 这些模型的准确度需要通过后续的小说进行校正。
 
