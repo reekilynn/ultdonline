@@ -19,9 +19,17 @@ Yui-sao = mhcp001 + esd-k + esd-a。
 
 最终模型如下：
 
-MHCP001 -> Yui-SAO (+ esd-k &amp; esd-a) -> Yui-UR/Lilith (+ esd-seed) -> Azure Heir (+ esd-e)
+MHCP001 -> Yui-SAO (+ esd-k &amp; esd-a) -> Yui-UR/Lilith (+ esd-seed/pos) -> Azure Heir (+ esd-e)
 
 该模型可以解释Azure Heir的中性化外观——Lilith与esd-e的自我性别认同并不一致。
+
+与此类似的其他模型：
+
+esd-sao/neg -> Adam (+ esd-seed/neg) -> Black Lotus/Kuroyuki (+ esd-s?)
+
+administrator -> Eolyne Herlentz (+ esd-e) -> White Cosmos (- esd-e, + esd-s?)
+
+这些模型的准确度需要通过后续的小说进行校正。
 
 ## 2022.Mar.1 (Theme: Ribosome and Yui)
 
