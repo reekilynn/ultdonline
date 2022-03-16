@@ -1,6 +1,6 @@
 # Accel World
 
-《Accel World》是川原砾创作的轻小说，由HIMA绘制插图。该小说自2009年2月起由电击文库（Ascii Media Works->Kadokawa)刊发行。通常简称为《AW》。
+《Accel World》是川原砾创作的轻小说，由HIMA绘制插图。该小说自2009年2月起由电击文库（Ascii Media Works→Kadokawa)刊发行。通常简称为《AW》。
 
 ## 概述
 
