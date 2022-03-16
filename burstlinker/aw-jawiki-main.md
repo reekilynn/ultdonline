@@ -44,7 +44,11 @@
 
 ### 11~16卷（ISS Kit篇）
 
+解开「灾祸之铠」的诅咒后不久，春雪被七王下达了重大任务，开始为获取新的能力而进行特训。在此期间，他遇到了身为1级却拥有压倒性的强度的Burst Linker，「Wolfram Cerberus」。经历了与他的对战、和ISS Kit使用者的战斗、Aqua Current的回归后，梅乡中学文化祭开幕的当天，Nega Nebulas面对着加速研究会新展开的计谋。
+
 ### 17~25卷（白之军团篇）
+
+知晓加速研究会的根基是白之军团「Oscillatory Universe」的Nega Nebulas为揭露其恶行而展开了行动。与绿之军团「Great Wall」进行领土归还交涉、和红之军团「Prominence」合并并纳入新成员后，完成准备的新Nega Nebulas终于挑起了领土战争，但等待着他们的却是白之王「White Cosmos」凶恶的陷阱。
 
 ## 登场人物
 
