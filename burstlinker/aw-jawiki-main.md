@@ -153,21 +153,21 @@ BB初期玩家们的自称，后来固定为玩家们的总称。最初期的称
 
 不过，这一称呼不过是BB大多数玩家的自称，加速研究会的成员则回避使用这一通称，而自称为《加速能力者》或《加速使用者》。
 
-**最初的一百人（Originator或开拓者）**
+##### 最初的一百人（Originator或开拓者）
 
-&emsp;&emsp;指直接从开发者处获得BB的第一代Burst Linker。目前确定的有Chrome Falcon、Saffron Blossom、Green Grandee、Blue Knight，此外Black Vise（Ivory Tower）也有暗示自己是Originator的发言。Graphite Edge被称为资历在Originator之上的《同位体》，但详细信息不明。
+指直接从开发者处获得BB的第一代Burst Linker。目前确定的有Chrome Falcon、Saffron Blossom、Green Grandee、Blue Knight，此外Black Vise（Ivory Tower）也有暗示自己是Originator的发言。Graphite Edge被称为资历在Originator之上的《同位体》，但详细信息不明。
     
-&emsp;&emsp;其本身的权限和第二代以后的BB玩家并无差别，但由于在没有《亲》的指导也并未形成军团等互助组织的情况下开始游戏，目前推测他们中的绝大多数都已失去全部点数，从加速世界中退场[6]。然而其中为数不多的幸存者凭借在BB中长久的经验而在实力和气场上和第二代以后的BB玩家有着一线之隔。除此之外，由于他们有着丰富的经验，其中也有不少人接近了BB的秘密。
+其本身的权限和第二代以后的BB玩家并无差别，但由于在没有《亲》的指导也并未形成军团等互助组织的情况下开始游戏，目前推测他们中的绝大多数都已失去全部点数，从加速世界中退场[6]。然而其中为数不多的幸存者凭借在BB中长久的经验而在实力和气场上和第二代以后的BB玩家有着一线之隔。除此之外，由于他们有着丰富的经验，其中也有不少人接近了BB的秘密。
 
 > 至少在分发一年后的时间点，存活人数已低于20人。
 
-**纯色七王**
+##### 纯色七王
 
-&emsp;&emsp;指蓝、红、黄、绿、紫、白、黑七名最强的9级Burst Linker。最初被称为《纯粹色（Pure Colors）》，其中数人在Brain Burst的黎明期就已经是最强玩家。多数在某项能力上高度特化。
+指蓝、红、黄、绿、紫、白、黑七名最强的9级Burst Linker。最初被称为《纯粹色（Pure Colors）》，其中数人在Brain Burst的黎明期就已经是最强玩家。多数在某项能力上高度特化。
 
-&emsp;&emsp;由于第一代红王Red Rider已经退场，目前的红王是第二代Scarlet Rain——这是仅有的例子。
+由于第一代红王Red Rider已经退场，目前的红王是第二代Scarlet Rain——这是仅有的例子。
 
-&emsp;&emsp;此外，他们率领的军团也有聚集同色对战形象的倾向——但黑白两个军团并不在这一范畴之中。
+此外，他们率领的军团也有聚集同色对战形象的倾向——但黑白两个军团并不在这一范畴之中。
 
 ### 军团（Legion）
 
