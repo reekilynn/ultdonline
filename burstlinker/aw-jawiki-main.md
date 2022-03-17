@@ -269,6 +269,30 @@ BB初期玩家们的自称，后来固定为玩家们的总称。最初期的称
 
 由三名Burst Linker组成的小型军团，位于世田谷区，名字来自法语的「小盒子」。军团长为Chocolat Puppetter。原本完成军团长任务至少需要4人，但由于Chocolat的巧偶能力，在奇迹的幸运下完成了这一任务。军团并不热心于玩家对战，而是以享受加速世界为目的，因此虽然成为Burst Linker的时间很长，但成员的等级相对较低。该军团于2047年7月解散并入Nega Nebulas。
 
+#### Prominence
+
+**第二代《红之王》Scarlet Rain**率领的军团。简称「Promi」。上一代军团长Red Rider退场时的成员大多数转到其他军团，因此目前33人的成员数在六大军团中为最低值。领土位于练马和中野周边。军团名的来历是太阳表面的炽焰日珥。据点位于练马区樱台的西式糕点店「Patisserie la Plage」。Rain之下有被称为《**三兽士（Triplex）**》的三位干部，加上第一期担任干部的《三重士（Triad）》共计11个三人小组[17]。是唯一一个与Nega Nebulas缔结互不侵犯条约的军团（仅限口头约定），在通过领土战击败Oscillatory Universe，剥夺其成员的对战玩家列表屏蔽权，从而将加速研究会拉出水面的计划下，决定协助Nega Nebulas并与其合并。
+
+> 《果物组》由于Cherry Rook已经退场，目前只有2人。
+
+#### Crypto Cosmic Circus（CCC）
+
+<b>《黄之王》Yellow Radio</b>率领的军团。领土为台东、荒川、足利周边。
+
+#### Great Wall
+
+<b>《绿之王》Green Grandee</b>率领的军团。简称「GreWal」。拥有上百名成员的加速世界最大势力。领土涵盖涉谷、目黑、品川、世田谷周边。军团名的来历是被称为Great Wall的宇宙大规模结构。根据Ash所说，军团采取对成员听之任之的风格，纪律并不严苛。第一期Nega Nebulas解散时，无处可去的Burst Linker们也（这其中有Lotus和Graph在暗中行动的影响）加入了这一军团。Grandee下属的6名干部被称为《**六层装甲（Six Armor）**》[18]
+
+> 原名《五层装甲（Five Armor）》，在Graph加入后改为现名。
+
+#### Leonids
+
+《蓝之王》Blue Knight</b>率领的军团。简称「Leoni」。领土涵盖新宿、文京、中野周边。Leonids指狮子座流星群。军团干部为两名双胞胎女武士，通称《**二剑（Dualis）**》。军团纪律较为严苛（相较之下，对在现实中使用加速较为宽容），有将分发后门程序的干部毫无慈悲地断罪的历史。在男女比例上，有着女性Burst Linker相当少的特征。
+
+#### Aurora Oval
+
+<b>《紫之王》Purple Thorn</b>率领的军团。领土为中央区和江东区。
+
 ### 其他集团
 
 ### 加速指令
