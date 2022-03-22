@@ -12,7 +12,7 @@
 
 2011年10月公布了动画化和游戏化的消息。TV动画自2012年4月播出至2012年9月。动画播出前，发售了具有预热性质的广播剧CD。剧场版动画《Infinite∞BURST》于2016年7月上映。
 
-《月刊COMIC电击大王》自2012年3月号开始连载由笹仓绫人作画的外传作品《Accel World/Duel Magisa Garden》。
+《月刊COMIC电击大王》自2012年3月号开始连载由笹仓绫人作画的外传作品《Accel World/Dural: Magisa Garden》。
 
 ## 故事介绍
 
@@ -327,7 +327,7 @@ Helilium Coil率领的中规模军团，位于板桥战区。
 
 #### Cҡазҡa-Пpисазка（Skazka Priskazka）
 
-于『Accel World/Duel Magisa Garden』中登场。Orange Raptor率领的4人军团。
+于『Accel World/Dural: Magisa Garden』中登场。Orange Raptor率领的4人军团。
 
 以中野区内的女校·私立清美学院中的社团活动《**演算武术研究部**》（通称《演武研》）成员构成的军团。对外（从作品内的时代看）是研究旧时代游戏（尤其是格斗游戏）的游戏研究社，但本质是学院内的Burst Linker们组成的BB集团。千秋和莉莉娅加入后，完成了军团长任务，正式组成军团。军团名来自俄语中的「童话」相关的文字游戏，也与莉莉娅的亡父开发的游戏名称有关。
 
@@ -335,7 +335,7 @@ Helilium Coil率领的中规模军团，位于板桥战区。
 
 #### Colorless
 
-于『Accel World/Duel Magisa Garden』中登场。
+于『Accel World/Dural: Magisa Garden』中登场。
 
 过去是Glass Monarch率领的无色军团，据点位于葛饰区中心。如其名称所示，军团成员只包含金属色等无色对战形象。以七大军团之外的第八军团为目标，鼎盛时期有近30名成员。
 
@@ -347,7 +347,7 @@ Monarch从加速世界消失踪影后，从Colorless改名而成的军团，以C
 
 #### 苍灯武装团·改
 
-于『Accel World/Duel Magisa Garden』中登场。Glacier Tiger率领的4人军团。
+于『Accel World/Dural: Magisa Garden』中登场。Glacier Tiger率领的4人军团。
 
 前身是名为《苍灯武装团》的《部落（Tribe）》，成员是身为清美女学院姐妹校的征王学院学生会成员。因为Slicer引发的事件，解散了《部族》之后正式组建军团。
 
@@ -588,7 +588,7 @@ Brain Burst中进行通常战斗（一对一格斗）的场地。系统名称为
 
 ###### Burlone
 
-在『Accel World/Duel Magisa Garden』中登场。
+在『Accel World/Dural: Magisa Garden』中登场。
 
 这个移动式商店位于巨大的龟型Enemy的龟壳顶部。虽然Raptor称之为「少女的隐藏之家一般的，干练而可爱的商店」，但商店下面的Enemy强度惊人，光是攀爬而上就相当困难，必须凭借具有飞行能力的对战虚拟体的力量从上方接近，被Valkyrie评价为「到达商店本身就比特种部队的训练还要严苛」。除了出售衣服，这家商店还出售名为《Perle Gelato》的食品道具。.
 
