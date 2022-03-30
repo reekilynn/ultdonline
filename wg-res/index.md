@@ -34,6 +34,8 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [针对doki《对加速世界后续的一些猜想》的全方位回复](res-220303-answer-doki.md) (2022.Mar.3)
 
+[艾欧莱茵和伊斯塔尔——对中央大教堂顶层决战的再解析](res-220330-eolyne-istar.md) (2022.Mar.30)
+
 # 短篇合集
 
 [Stage1st SAO专楼 Part.1](res-archive-s1-sao-part1.md) (2012)
