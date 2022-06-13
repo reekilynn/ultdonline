@@ -49,7 +49,7 @@ $$K =  \int_{T} \bf{F}\cdot{\rm d}\bf{l}$$
 
 在我最初提出这一理论的时候，曾将角色的相互关系**F**定义为以下经典场论形式：
 
-$$\bf{F} = \nabla{U} + \nabla\times\bf{A}$$
+$${\bf{F}} = \nabla{U} + \nabla\times{\bf{A}}$$
 
 有人提出这样的疑问：
 
@@ -61,11 +61,11 @@ $$\bf{F} = \nabla{U} + \nabla\times\bf{A}$$
 
 此处定义角色内心的变化率
 
-$$\bf{v} = \frac{{\rm d}\bf{l}}{{\rm d}t}$$
+$${\bf{v}} = \frac{{\rm d}{\bf{l}}}{{\rm d}t}$$
 
 那么角色之间的关系$\bf{F}$可参照电磁力的定义写为如下形式：
 
-$$\bf{F} = q(\bf{E} + \bf{v}\times\bf{B})$$
+$${\bf{F}} = q(\bf{E} + \bf{v}\times\bf{B})$$
 
 此处$\bf{E}$代表静态相互作用（具备有源性），而$\bf{v}\times\bf{B}$代表动态相互作用（具备无源性）。$q$为每个角色的固有特征。
 
@@ -73,11 +73,11 @@ $$\bf{F} = q(\bf{E} + \bf{v}\times\bf{B})$$
 
 $$\nabla\cdot\bf{E} = \frac{\rho}{\epsilon} $$
 
-$$\nabla\cdot\bf{B} = 0 $$
+$$\nabla\cdot\bf{B} = \rm{0} $$
 
-$$\nabla\times\bf{E} = -\frac{\partial\bf{B}}{\partial{t}}$$
+$$\nabla\times\bf{E} = -\frac{\partial\bf{B}}{\partial\it{t}}$$
 
-$$\nabla\times\bf{B} = \mu\sigma\bf{E} + \mu\epsilon\frac{\partial\bf{E}}{\partial{t}}$$
+$$\nabla\times\bf{B} = \mu\sigma\bf{E} + \mu\epsilon\frac{\partial\bf{E}}{\partial\it{t}}$$
 
 其中$\mu$（磁常数），$\epsilon$（电常数）为每部作品的**固有常数**。$\rho$（总电荷密度）和$\sigma$（电导率）可能随角色的**人数**发生变化。
 
