@@ -71,15 +71,15 @@ $${\bf{F}} = q(\bf{E} + \bf{v}\times\bf{B})$$
 
 由此可使用麦克斯韦方程组描述$\bf{E}$和$\bf{B}$两个相互作用的**场**：
 
-$$\nabla\cdot\bf{E} = \frac{\rho}{\epsilon} $$
+$$\nabla\cdot{\bf{E}} = \frac{\rho}{\epsilon_0} $$
 
-$$\nabla\cdot\bf{B} = \rm{0} $$
+$$\nabla\cdot{\bf{B}} = 0 $$
 
-$$\nabla\times\bf{E} = -\frac{\partial\bf{B}}{\partial\it{t}}$$
+$$\nabla\times{\bf{E}} = -\frac{\partial{\bf{B}}}{\partial{t}}$$
 
-$$\nabla\times\bf{B} = \mu\sigma\bf{E} + \mu\epsilon\frac{\partial\bf{E}}{\partial\it{t}}$$
+$$\nabla\times{\bf{B}} = \mu_0\sigma{\bf{E}} + \mu_0\epsilon_0\frac{\partial{\bf{E}}}{\partial{t}}$$
 
-其中$\mu$（磁常数），$\epsilon$（电常数）为每部作品的**固有常数**。$\rho$（总电荷密度）和$\sigma$（电导率）可能随角色的**人数**发生变化。
+其中$\mu_0$（磁常数），$\epsilon_0$（电常数）为每部作品的**固有常数**。$\rho$（总电荷密度）和$\sigma$（电导率）可能随角色的**人数**发生变化。
 
 需要注意的是，这只是一个非常概括性的理想模型，理论上只适用于对虚构作品中的故事进行复盘，在后续剧情预测方面的作用较弱，更不能用来分析现实世界的情况。
 
