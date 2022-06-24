@@ -41,7 +41,7 @@ $$K =  \underset{T}{\int} \bf{F}\cdot{\rm d}\bf{l}$$
 
 1. 相互关系（$\bf{F}$）
 2. 自身内心的变化（${\rm d}\bf{l}$）
-3. 相互关系与自身内心变化的互相作用（$\cos<\bf{F},{\rm d}\bf{l}>$）
+3. 相互关系与自身内心变化的互相作用（$\cos\langle\bf{F},{\rm d}\bf{l}\rangle$）
 
 下面对第一部分（角色相互关系）进行进一步解析。
 
