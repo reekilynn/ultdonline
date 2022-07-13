@@ -61,7 +61,7 @@ $${\bf{F}} = \nabla{U} + \nabla\times{\bf{A}}$$
 
 此处定义角色内心的变化率
 
-$${\bf{v}} = \frac{{\rm d}{\bf{l}}}{{\rm d}t}$$
+$${\bf{v}} = \frac{d{\bf{l}}}{dt}$$
 
 那么角色之间的关系$\bf{F}$可参照电磁力的定义写为如下形式：
 
