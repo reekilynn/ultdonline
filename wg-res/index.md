@@ -36,6 +36,8 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [艾欧莱茵和伊斯塔尔——对中央大教堂顶层决战的再解析](res-220330-eolyne-istar.md) (2022.Mar.30)
 
+[对SAOP的再认识——心意，系统与茅场晶彦](res-220713-saop.md) (2022.Jul.13)
+
 # 短篇合集
 
 [Stage1st SAO专楼 Part.1](res-archive-s1-sao-part1.md) (2012)
