@@ -8,6 +8,8 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [SAO: Alicization Web翻译后记](res-130412-sao-uw-post.md) (2013.Apr.12)
 
+[Sakura-Con川原访谈](res-130413-reki-data.md) (2013.Apr.13)
+
 [Brain Burst程序理论模型及其运作原理](res-131011-bbmodel.md) (2013.Oct.11)
 
 [基于AW15对黑雪姬的一些推断](res-131015-kuroyuki.md) (2013.Oct.15)
