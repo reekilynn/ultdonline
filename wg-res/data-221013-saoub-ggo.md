@@ -2,7 +2,7 @@
 
 ### 剧情位置
 
-发生在刀剑神域Alicization篇的最开始，以桐人、诗乃为首的五人和Subtilizer率领的pk小队战斗的剧情补充
+发生在刀剑神域Alicization篇的最开始，以桐人、诗乃为首的六人和Subtilizer率领的pk小队战斗的剧情补充
 
 ### 大致剧情
 
