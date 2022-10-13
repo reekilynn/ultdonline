@@ -10,6 +10,8 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [Sakura-Con川原访谈](res-130413-reki-data.md) (2013.Apr.13)
 
+[Niconico百科上的亚丝娜角色资料](res-130529-asuna-nico-profile.md) (2013.May.29)
+
 [Brain Burst程序理论模型及其运作原理](res-131011-bbmodel.md) (2013.Oct.11)
 
 [基于AW15对黑雪姬的一些推断](res-131015-kuroyuki.md) (2013.Oct.15)
