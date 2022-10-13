@@ -2,7 +2,7 @@
 
 Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
-# 长篇研究
+## 长篇研究
 
 [关于SAO的一点杂感](res-121125-sao-rev.md) (2012.Nov.25)
 
@@ -38,7 +38,7 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [对SAOP的再认识——心意，系统与茅场晶彦](res-220713-saop.md) (2022.Jul.13)
 
-# 短篇合集
+## 短篇合集
 
 [Stage1st SAO专楼 Part.1](res-archive-s1-sao-part1.md) (2012)
 
@@ -65,3 +65,7 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 [微博合集 #6](res-2021-short-part2.md) (2021.Jul-2021.Dec)
 
 [微博合集 #7](res-2022-short-part1.md) (2022.Jan-)
+
+## 转载资料
+
+[UB游戏剧情：与PK小队的战斗](data-221013-saoub-ggo.md) (2022.Oct.13)
