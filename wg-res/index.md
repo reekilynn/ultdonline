@@ -46,6 +46,8 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [Stage1st SAO专楼 Part.1](res-archive-s1-sao-part1.md) (2012)
 
+[Stage1st SAO专楼 Part.2](res-archive-s1-sao-part2.md) (2013)
+
 [Stage1st AW专楼 Part.1](res-archive-s1-aw-part1.md) (2013)
 
 [Stage1st AW专楼 Part.2](res-archive-s1-aw-part2.md) (2014-2017)
