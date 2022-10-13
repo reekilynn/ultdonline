@@ -69,3 +69,5 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 ## 转载资料
 
 [UB游戏剧情：与PK小队的战斗](data-221013-saoub-ggo.md) (2022.Oct.13)
+
+[MD游戏剧情：UW创世纪传说](data-221013-saomd-uwcreate.md) (2022.Oct.13)
