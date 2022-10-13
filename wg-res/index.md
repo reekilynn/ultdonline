@@ -78,3 +78,4 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [桐人在Alicization篇使用的武器列表](data-221013-saouw-kirito-weapons.md) (2022.Oct.13)
 
+[UnderWorld神器一览](data-221013-uw-weapons.md) (2022.Oct.13)
