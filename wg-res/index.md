@@ -76,3 +76,5 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [UB游戏剧情：与PK小队的战斗](data-221013-saoub-part01-ggo.md) (2022.Oct.13)
 
+[桐人在Alicization篇使用的武器列表](data-221013-saouw-kirito-weapons.md) (2022.Oct.13)
+
