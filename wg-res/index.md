@@ -24,6 +24,8 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [说一下SAO原作存在的一些问题](res-190324-criticize-uw.md) (2019.Mar.24)
 
+[电击G's Magazine采访专刊](res-190403-reki-interview.md) (2019.Apr.3)
+
 [sao设定上的漏洞](res-190327-sao-issues-back.md) (2019.Mar.27)
 
 [基于SAO1-21和AW1-24的系统性解析(重点：结衣与黑白姐妹)](res-190811-yui.md) (2019.Aug.11)
