@@ -87,3 +87,5 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 [UnderWorld神器一览](data-221013-uw-weapons.md) (2022.Oct.13)
 
 [UB文库补充剧情：葵妮拉篇](data-221030-saoub-add01-admin.md) (2022.Oct.30)
+
+[SAO Full Dive舞台（川原脚本部分repo）](data-221108-saofd-repo.md) (2022.Nov.8)
