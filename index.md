@@ -51,3 +51,11 @@ The afterstory sold on Comitia93 (Aug 2010) was also included.
 
 ### Yuexiang: After (2010.Aug.29)
 - [Main Text](yuesia/yuesia-after.md)
+
+## Demons' Crest
+
+An original *Mixed-Reality* novel.
+
+### Vol 1
+
+- [Character Info v1.0](demonscrest/vol1/chara-info-v1.0.md)
