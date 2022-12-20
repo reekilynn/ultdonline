@@ -61,3 +61,4 @@ An original *Mixed-Reality* novel.
 - [Character Info v1.0](demonscrest/vol1/chara-info-v1.0.md)
 - [01](demonscrest/vol1/01-01.md)
 - [02](demonscrest/vol1/01-02.md)
+- [03](demonscrest/vol1/01-03.md)
