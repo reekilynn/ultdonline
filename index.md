@@ -62,3 +62,4 @@ An original *Mixed-Reality* novel.
 - [01](demonscrest/vol1/01-01.md)
 - [02](demonscrest/vol1/01-02.md)
 - [03](demonscrest/vol1/01-03.md)
+- [04](demonscrest/vol1/01-04.md)
