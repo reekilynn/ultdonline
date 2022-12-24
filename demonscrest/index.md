@@ -2,7 +2,7 @@
 
 An original *Mixed-Reality* novel.
 
-### Vol 1 Genjitsu~Shinshoku
+### Vol.1 Genjitsu~Shinshoku (2022.Nov.10)
 
 - [Character Info v1.0](vol1/chara-info-v1.0.md)
 - [01](vol1/01-01.md)
