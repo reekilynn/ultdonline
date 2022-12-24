@@ -53,16 +53,5 @@ The afterstory sold on Comitia93 (Aug 2010) was also included.
 - [Main Text](yuesia/yuesia-after.md)
 
 ## Demons' Crest
-
 An original *Mixed-Reality* novel.
-
-### Vol 1
-
-- [Character Info v1.0](demonscrest/vol1/chara-info-v1.0.md)
-- [01](demonscrest/vol1/01-01.md)
-- [02](demonscrest/vol1/01-02.md)
-- [03](demonscrest/vol1/01-03.md)
-- [04](demonscrest/vol1/01-04.md)
-- [05](demonscrest/vol1/01-05.md)
-- [06](demonscrest/vol1/01-06.md)
-- [07](demonscrest/vol1/01-07.md)
+See [here](demonscrest/index.md) for details.
