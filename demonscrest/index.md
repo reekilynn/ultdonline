@@ -17,3 +17,4 @@ An original *Mixed-Reality* novel.
 - [10](vol1/01-10.md)
 - [11](vol1/01-11.md)
 - [Character Info v1.1](vol1/chara-info-v1.1.md)
+- [Postscript](vol1/postscript.md)
