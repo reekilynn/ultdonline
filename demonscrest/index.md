@@ -14,3 +14,4 @@ An original *Mixed-Reality* novel.
 - [07](vol1/01-07.md)
 - [08](vol1/01-08.md)
 - [09](vol1/01-09.md)
+- [10](vol1/01-10.md)
