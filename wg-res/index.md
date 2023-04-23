@@ -62,7 +62,19 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [Stage1st 川原砾专楼 Part.3](res-archive-s1-reki-part3.md) (2019)
 
-[Stage1st 川原砾专楼 Part.4](res-archive-s1-reki-part4.md) (2020.Jan-2020.May)
+[Stage1st 川原砾专楼 Part.4](res-archive-s1-reki-part4.md) (2020.Jan-May)
+
+[Stage1st 川原砾专楼 Part.5](res-archive-s1-reki-part5.md) (2020.Jul-Dec)
+
+[Stage1st 川原砾专楼 Part.6](res-archive-s1-reki-part6.md) (2021.Jan-Aug)
+
+[Stage1st 川原砾专楼 Part.7](res-archive-s1-reki-part7.md) (2021.Sep)
+
+[Stage1st 川原砾专楼 Part.8](res-archive-s1-reki-part8.md) (2021.Sep-Dec)
+
+[Stage1st 川原砾专楼 Part.9](res-archive-s1-reki-part9.md) (2022.Jan)
+
+[Stage1st 川原砾专楼 Part.10](res-archive-s1-reki-part10.md) (2022.Feb-Dec)
 
 ***
 
@@ -86,13 +98,13 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 ## 转载资料
 
-[其实吧，刀剑神域也可以很好看的by幽远](data-130311-saop1-comment.md) (2013.Mar.11)
+[其实吧，刀剑神域也可以很好看的](data-130311-saop1-comment.md) (2013.Mar.11)
 
 [MD游戏剧情：UW创世纪传说](data-221013-saomd-uwcreate.md) (2022.Oct.13)
 
-[UB游戏剧情：与PK小队的战斗](data-221013-saoub-part01-ggo.md) (2022.Oct.13)
+[UB游戏剧情：与PK中队的战斗](data-221013-saoub-part01-ggo.md) (2022.Oct.13)
 
-[桐人在Alicization篇使用的武器列表](data-221013-saouw-kirito-weapons.md) (2022.Oct.13)
+[盘点桐人在Alicization篇用过的武器](data-221013-saouw-kirito-weapons.md) (2022.Oct.13)
 
 [UnderWorld神器一览](data-221013-uw-weapons.md) (2022.Oct.13)
 
