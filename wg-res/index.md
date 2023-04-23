@@ -62,6 +62,8 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [Stage1st 川原砾专楼 Part.3](res-archive-s1-reki-part3.md) (2019)
 
+[Stage1st 川原砾专楼 Part.4](res-archive-s1-reki-part4.md) (2020.Jan-2020.May)
+
 ***
 
 [贴吧讨论](res-archive-tb.md) (2013-2015)
