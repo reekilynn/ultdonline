@@ -74,7 +74,7 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [微博合集 #6](res-2021-short-part2.md) (2021.Jul-2021.Dec)
 
-[微博合集 #7](res-2022-short-part1.md) (2022.Jan-)
+[微博合集 #7](res-2022-short-part1.md) (2022.Jan-2022.Dec)
 
 ## 转载资料
 
