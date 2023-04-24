@@ -2,12 +2,12 @@
 
 首先感谢SouronCounter的分析帖，参见[此处](http://tieba.baidu.com/p/4958522081)
 
-21卷翻译完成后，可以认为本人在[这一帖子](wg-res/res-161110-aw21-rev.md)内的分析预测出现了大量疑点。
+21卷翻译完成后，可以认为本人在[这一帖子](res-161110-aw21-rev.md)内的分析预测出现了大量疑点。
 
 那么回到我最初的两个分析帖
-[BB基本模型](wg-res/res-131011-bbmodel.md)
+[BB基本模型](res-131011-bbmodel.md)
 和
-[黑白姐妹相关脑洞](wg-res/res-131015-kuroyuki.md)，重新展开推测。
+[黑白姐妹相关脑洞](res-131015-kuroyuki.md)，重新展开推测。
 
 ***
 
