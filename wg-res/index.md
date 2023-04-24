@@ -4,45 +4,47 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 ## 长篇研究
 
-[关于SAO的一点杂感](res-121125-sao-rev.md) (2012.Nov.25)
+[关于SAO的一点杂感](research/res-121125-sao-rev.md) (2012.Nov.25)
 
-[SAO: Alicization Web翻译后记](res-130412-sao-uw-post.md) (2013.Apr.12)
+[SAO: Alicization Web翻译后记](research/res-130412-sao-uw-post.md) (2013.Apr.12)
 
-[Sakura-Con川原访谈](res-130413-reki-data.md) (2013.Apr.13)
+[Sakura-Con川原访谈](research/res-130413-reki-data.md) (2013.Apr.13)
 
-[Niconico百科上的亚丝娜角色资料](res-130529-asuna-nico-profile.md) (2013.May.29)
+[Niconico百科上的亚丝娜角色资料](research/res-130529-asuna-nico-profile.md) (2013.May.29)
 
-[Brain Burst程序理论模型及其运作原理](res-131011-bbmodel.md) (2013.Oct.11)
+[Brain Burst程序理论模型及其运作原理](research/res-131011-bbmodel.md) (2013.Oct.11)
 
-[基于AW15对黑雪姬的一些推断](res-131015-kuroyuki.md) (2013.Oct.15)
+[基于AW15对黑雪姬的一些推断](research/res-131015-kuroyuki.md) (2013.Oct.15)
 
-[Brain Burst 2039的基本运作模型+a](res-160611-bbmodel2.md) (2016.Jun.11)
+[Brain Burst 2039的基本运作模型+a](research/res-160611-bbmodel2.md) (2016.Jun.11)
 
-[基于aw21卷情报补充的系统性推测](res-161110-aw21-rev.md) (2016.Nov.10)
+[基于aw21卷情报补充的系统性推测](research/res-161110-aw21-rev.md) (2016.Nov.10)
 
-[aw21卷后的系统性白王解析+脑洞](res-170202-cosmos.md) (2017.Feb.2)
+[aw21卷后的系统性白王解析+脑洞](research/res-170202-cosmos.md) (2017.Feb.2)
 
-[说一下SAO原作存在的一些问题](res-190324-criticize-uw.md) (2019.Mar.24)
+[说一下SAO原作存在的一些问题](research/res-190324-criticize-uw.md) (2019.Mar.24)
 
-[sao设定上的漏洞](res-190327-sao-issues-back.md) (2019.Mar.27)
+[sao设定上的漏洞](research/res-190327-sao-issues-back.md) (2019.Mar.27)
 
-[电击G's Magazine采访专刊](res-190403-reki-interview.md) (2019.Apr.3)
+[电击G's Magazine采访专刊](research/res-190403-reki-interview.md) (2019.Apr.3)
 
-[基于SAO1-21和AW1-24的系统性解析(重点：结衣与黑白姐妹)](res-190811-yui.md) (2019.Aug.11)
+[基于SAO1-21和AW1-24的系统性解析(重点：结衣与黑白姐妹)](research/res-190811-yui.md) (2019.Aug.11)
 
-[关于后续剧情的推测和整理——写在SAO26发售之前](res-210806-sao26-prev.md) (2021.Aug.6)
+[关于后续剧情的推测和整理——写在SAO26发售之前](research/res-210806-sao26-prev.md) (2021.Aug.6)
 
-[SAOP剧场版PV初步解析](res-210916-saop.md) (2021.Sep.16)
+[SAOP剧场版PV初步解析](research/res-210916-saop.md) (2021.Sep.16)
 
-[写在aw26发售前的一些推断](res-220109-aw26-prev.md) (2022.Jan.9)
+[写在aw26发售前的一些推断](research/res-220109-aw26-prev.md) (2022.Jan.9)
 
-[从EVA看SAO和AW——SAO/AW综合分析及推断（写在AW26发售之前）](res-220203-eva.md) (2022.Feb.3)
+[从EVA看SAO和AW——SAO/AW综合分析及推断（写在AW26发售之前）](research/res-220203-eva.md) (2022.Feb.3)
 
-[针对doki《对加速世界后续的一些猜想》的全方位回复](res-220303-answer-doki.md) (2022.Mar.3)
+[针对doki《对加速世界后续的一些猜想》的全方位回复](research/res-220303-answer-doki.md) (2022.Mar.3)
 
-[艾欧莱茵和伊斯塔尔——对中央大教堂顶层决战的再解析](res-220330-eolyne-istar.md) (2022.Mar.30)
+[艾欧莱茵和伊斯塔尔——对中央大教堂顶层决战的再解析](research/res-220330-eolyne-istar.md) (2022.Mar.30)
 
-[对SAOP的再认识——心意，系统与茅场晶彦](res-220713-saop.md) (2022.Jul.13)
+[对SAOP的再认识——心意，系统与茅场晶彦](research/res-220713-saop.md) (2022.Jul.13)
+
+[《这本轻小说真厉害！2023》川原专访](research/res-221125-reki-interview.md) (2022.Nov.25)
 
 ## 译者后记
 
