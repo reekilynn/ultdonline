@@ -106,23 +106,23 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 ***
 
-[贴吧讨论](res-archive-tb.md) (2013-2015)
+[贴吧讨论](archive/res-archive-tb.md) (2013-2015)
 
 ***
 
-[微博合集 #1](res-archive-wb-2018-and-before.md) (2016-2018)
+[微博合集 #1](archive/res-archive-wb-2018-and-before.md) (2016-2018)
 
-[微博合集 #2](res-archive-wb-2019.md) (2019)
+[微博合集 #2](archive/res-archive-wb-2019.md) (2019)
 
-[微博合集 #3](res-archive-wb-2020-part1.md) (2020.Jan-2020.Jun)
+[微博合集 #3](archive/res-archive-wb-2020-part1.md) (2020.Jan-2020.Jun)
 
-[微博合集 #4](res-archive-wb-2020-part2.md) (2020.Jul-2020.Dec)
+[微博合集 #4](archive/res-archive-wb-2020-part2.md) (2020.Jul-2020.Dec)
 
-[微博合集 #5](res-archive-wb-2021-part1.md) (2021.Jan-2020.Jun)
+[微博合集 #5](archive/res-archive-wb-2021-part1.md) (2021.Jan-2020.Jun)
 
-[微博合集 #6](res-archive-wb-2021-part2.md) (2021.Jul-2021.Dec)
+[微博合集 #6](archive/res-archive-wb-2021-part2.md) (2021.Jul-2021.Dec)
 
-[微博合集 #7](res-archive-wb-2022.md) (2022.Jan-2022.Dec)
+[微博合集 #7](archive/res-archive-wb-2022.md) (2022.Jan-2022.Dec)
 
 ## 转载资料
 
