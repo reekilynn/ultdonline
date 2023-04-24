@@ -124,18 +124,18 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 ## 转载资料
 
-[其实吧，刀剑神域也可以很好看的](data-130311-saop1-comment.md) (2013.Mar.11)
+[其实吧，刀剑神域也可以很好看的](data/data-130311-saop1-comment.md) (2013.Mar.11)
 
-[MD游戏剧情：UW创世纪传说](data-221013-saomd-uwcreate.md) (2022.Oct.13)
+[MD游戏剧情：UW创世纪传说](data/data-221013-saomd-uwcreate.md) (2022.Oct.13)
 
-[UB游戏剧情：与PK中队的战斗](data-221013-saoub-part01-ggo.md) (2022.Oct.13)
+[UB游戏剧情：与PK中队的战斗](data/data-221013-saoub-part01-ggo.md) (2022.Oct.13)
 
-[盘点桐人在Alicization篇用过的武器](data-221013-saouw-kirito-weapons.md) (2022.Oct.13)
+[盘点桐人在Alicization篇用过的武器](data/data-221013-saouw-kirito-weapons.md) (2022.Oct.13)
 
-[UnderWorld神器一览](data-221013-uw-weapons.md) (2022.Oct.13)
+[UnderWorld神器一览](data/data-221013-uw-weapons.md) (2022.Oct.13)
 
-[UB文库补充剧情：葵妮拉篇](data-221030-saoub-add01-admin.md) (2022.Oct.30)
+[UB文库补充剧情：葵妮拉篇](data/data-221030-saoub-add01-admin.md) (2022.Oct.30)
 
-[SAO Full Dive舞台（川原脚本部分repo）](data-221108-saofd-repo.md) (2022.Nov.8)
+[SAO Full Dive舞台（川原脚本部分repo）](data/data-221108-saofd-repo.md) (2022.Nov.8)
 
-[对SAO伦理系统的一些胡思乱想](data-230217-sao-r18.md) (2023.Feb.17)
+[对SAO伦理系统的一些胡思乱想](data/data-230217-sao-r18.md) (2023.Feb.17)
