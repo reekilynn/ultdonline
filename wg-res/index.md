@@ -74,35 +74,35 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 ## 短篇合集
 
-[Stage1st SAO专楼 Part.1](res-archive-s1-sao-part1.md) (2012)
+[Stage1st SAO专楼 Part.1](archive/res-archive-s1-sao-part1.md) (2012)
 
-[Stage1st SAO专楼 Part.2](res-archive-s1-sao-part2.md) (2013)
+[Stage1st SAO专楼 Part.2](archive/res-archive-s1-sao-part2.md) (2013)
 
-[Stage1st SAO专楼 Part.3](res-archive-s1-sao-part3.md) (2014-2016)
+[Stage1st SAO专楼 Part.3](archive/res-archive-s1-sao-part3.md) (2014-2016)
 
-[Stage1st AW专楼 Part.1](res-archive-s1-aw-part1.md) (2013)
+[Stage1st AW专楼 Part.1](archive/res-archive-s1-aw-part1.md) (2013)
 
-[Stage1st AW专楼 Part.2](res-archive-s1-aw-part2.md) (2014-2017)
+[Stage1st AW专楼 Part.2](archive/res-archive-s1-aw-part2.md) (2014-2017)
 
-[Stage1st 川原砾专楼 Part.1](res-archive-s1-reki-part1.md) (2017)
+[Stage1st 川原砾专楼 Part.1](archive/res-archive-s1-reki-part01.md) (2017)
 
-[Stage1st 川原砾专楼 Part.2](res-archive-s1-reki-part2.md) (2018)
+[Stage1st 川原砾专楼 Part.2](archive/res-archive-s1-reki-part02.md) (2018)
 
-[Stage1st 川原砾专楼 Part.3](res-archive-s1-reki-part3.md) (2019)
+[Stage1st 川原砾专楼 Part.3](archive/res-archive-s1-reki-part03.md) (2019)
 
-[Stage1st 川原砾专楼 Part.4](res-archive-s1-reki-part4.md) (2020.Jan-May)
+[Stage1st 川原砾专楼 Part.4](archive/res-archive-s1-reki-part04.md) (2020.Jan-May)
 
-[Stage1st 川原砾专楼 Part.5](res-archive-s1-reki-part5.md) (2020.Jul-Dec)
+[Stage1st 川原砾专楼 Part.5](archive/res-archive-s1-reki-part05.md) (2020.Jul-Dec)
 
-[Stage1st 川原砾专楼 Part.6](res-archive-s1-reki-part6.md) (2021.Jan-Aug)
+[Stage1st 川原砾专楼 Part.6](archive/res-archive-s1-reki-part06.md) (2021.Jan-Aug)
 
-[Stage1st 川原砾专楼 Part.7](res-archive-s1-reki-part7.md) (2021.Sep)
+[Stage1st 川原砾专楼 Part.7](archive/res-archive-s1-reki-part07.md) (2021.Sep)
 
-[Stage1st 川原砾专楼 Part.8](res-archive-s1-reki-part8.md) (2021.Sep-Dec)
+[Stage1st 川原砾专楼 Part.8](archive/res-archive-s1-reki-part08.md) (2021.Sep-Dec)
 
-[Stage1st 川原砾专楼 Part.9](res-archive-s1-reki-part9.md) (2022.Jan)
+[Stage1st 川原砾专楼 Part.9](archive/res-archive-s1-reki-part09.md) (2022.Jan)
 
-[Stage1st 川原砾专楼 Part.10](res-archive-s1-reki-part10.md) (2022.Feb-Dec)
+[Stage1st 川原砾专楼 Part.10](archive/res-archive-s1-reki-part10.md) (2022.Feb-Dec)
 
 ***
 
