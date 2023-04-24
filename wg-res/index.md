@@ -46,29 +46,29 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 ## 译者后记
 
-[Vol.12 Alicization Rising 译者后记](res-post-130425-vol12.md) (2013.Apr.25)
+[Vol.12 Alicization Rising 译者后记](postscript/res-post-130425-vol12.md) (2013.Apr.25)
 
-[Vol.13 Alicization Dividing 译者后记](res-post-130822-vol13.md) (2013.Aug.22)
+[Vol.13 Alicization Dividing 译者后记](postscript/res-post-130822-vol13.md) (2013.Aug.22)
 
-[Vol.14 Alicization Uniting 译者后记](res-post-140506-vol14.md) (2014.May.6)
+[Vol.14 Alicization Uniting 译者后记](postscript/res-post-140506-vol14.md) (2014.May.6)
 
-[Vol.16 Alicization Exploding 译者后记](res-post-150903-vol16.md) (2015.Sep.3)
+[Vol.16 Alicization Exploding 译者后记](postscript/res-post-150903-vol16.md) (2015.Sep.3)
 
-[Vol.17 Alicization Awakening 译者后记](res-post-160415-vol17.md) (2016.Apr.15)
+[Vol.17 Alicization Awakening 译者后记](postscript/res-post-160415-vol17.md) (2016.Apr.15)
 
-[Vol.18 Alicization Lasting 译者后记](res-post-160817-vol18.md) (2016.Aug.17)
+[Vol.18 Alicization Lasting 译者后记](postscript/res-post-160817-vol18.md) (2016.Aug.17)
 
-[Vol.21 Unital Ring I 译者后记](res-post-190328-vol21.md) (2019.Mar.28)
+[Vol.21 Unital Ring I 译者后记](postscript/res-post-190328-vol21.md) (2019.Mar.28)
 
-[Vol.22 Kiss and Fly 译者后记](res-post-191105-vol22.md) (2019.Nov.5)
+[Vol.22 Kiss and Fly 译者后记](postscript/res-post-191105-vol22.md) (2019.Nov.5)
 
-[Vol.24 Unital Ring III 译者后记](res-post-201207-vol24.md) (2020.Dec.7)
+[Vol.24 Unital Ring III 译者后记](postscript/res-post-201207-vol24.md) (2020.Dec.7)
 
-[Vol.25 Unital Ring IV 译者后记](res-post-210327-vol25.md) (2021.Mar.27)
+[Vol.25 Unital Ring IV 译者后记](postscript/res-post-210327-vol25.md) (2021.Mar.27)
 
-[Vol.26 Unital Ring V 译者后记](res-post-220203-vol26.md) (2022.Feb.3)
+[Vol.26 Unital Ring V 译者后记](postscript/res-post-220203-vol26.md) (2022.Feb.3)
 
-[Vol.27 Unital Ring VI 译者后记](res-post-230403-vol27.md) (2023.Apr.3)
+[Vol.27 Unital Ring VI 译者后记](postscript/res-post-230403-vol27.md) (2023.Apr.3)
 
 ## 短篇合集
 
