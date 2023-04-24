@@ -44,6 +44,32 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [对SAOP的再认识——心意，系统与茅场晶彦](res-220713-saop.md) (2022.Jul.13)
 
+## 译者后记
+
+[Vol.12 Alicization Rising 译者后记](res-post-130425-vol12.md) (2013.Apr.25)
+
+[Vol.13 Alicization Dividing 译者后记](res-post-130822-vol13.md) (2013.Aug.22)
+
+[Vol.14 Alicization Uniting 译者后记](res-post-140506-vol14.md) (2014.May.6)
+
+[Vol.16 Alicization Exploding 译者后记](res-post-150903-vol16.md) (2015.Sep.3)
+
+[Vol.17 Alicization Awakening 译者后记](res-post-160415-vol17.md) (2016.Apr.15)
+
+[Vol.18 Alicization Lasting 译者后记](res-post-160817-vol18.md) (2016.Aug.17)
+
+[Vol.21 Unital Ring I 译者后记](res-post-190328-vol21.md) (2019.Mar.28)
+
+[Vol.22 Kiss and Fly 译者后记](res-post-191105-vol22.md) (2019.Nov.5)
+
+[Vol.24 Unital Ring III 译者后记](res-post-201207-vol24.md) (2020.Dec.7)
+
+[Vol.25 Unital Ring IV 译者后记](res-post-210327-vol25.md) (2021.Mar.27)
+
+[Vol.26 Unital Ring V 译者后记](res-post-220203-vol26.md) (2022.Feb.3)
+
+[Vol.27 Unital Ring VI 译者后记](res-post-230403-vol27.md) (2023.Apr.3)
+
 ## 短篇合集
 
 [Stage1st SAO专楼 Part.1](res-archive-s1-sao-part1.md) (2012)
@@ -82,19 +108,19 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 ***
 
-[微博合集 #1](res-2018-and-before.md) (2016-2018)
+[微博合集 #1](res-archive-wb-2018-and-before.md) (2016-2018)
 
-[微博合集 #2](res-2019-short-part2.md) (2019)
+[微博合集 #2](res-archive-wb-2019.md) (2019)
 
-[微博合集 #3](res-2020-short-part1.md) (2020.Jan-2020.Jun)
+[微博合集 #3](res-archive-wb-2020-part1.md) (2020.Jan-2020.Jun)
 
-[微博合集 #4](res-2020-short-part2.md) (2020.Jul-2020.Dec)
+[微博合集 #4](res-archive-wb-2020-part2.md) (2020.Jul-2020.Dec)
 
-[微博合集 #5](res-2021-short-part1.md) (2021.Jan-2020.Jun)
+[微博合集 #5](res-archive-wb-2021-part1.md) (2021.Jan-2020.Jun)
 
-[微博合集 #6](res-2021-short-part2.md) (2021.Jul-2021.Dec)
+[微博合集 #6](res-archive-wb-2021-part2.md) (2021.Jul-2021.Dec)
 
-[微博合集 #7](res-2022-short-part1.md) (2022.Jan-2022.Dec)
+[微博合集 #7](res-archive-wb-2022.md) (2022.Jan-2022.Dec)
 
 ## 转载资料
 
