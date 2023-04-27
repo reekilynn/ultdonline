@@ -28,6 +28,9 @@
 |アヴィス|Avis|鸟|
 |プレミス|Premis|聚集|
 |プルーヴィア|Pluvia|雨|
+|ヴィ―ティス|Vitis|藤蔓|
+|スピーナ|Spina|荆棘|
+|ヴァータス|Virtus|勇气|
 |マグナス・ハスタ|Magnus Hasta|巨枪|
 
 ### 发动词
@@ -41,6 +44,9 @@
 |カーサス|Casus|滴落|
 |フジオーネ|Fusione|融合|
 |テルサス|Tersus|冲洗|
+|アドリガス|Adligas|束缚|
+|セクティス|Sectis|切割|
+|リベラス|Liberas|解放|
 
 ### 魔法列表
 
@@ -57,6 +63,8 @@
 |雷の矢|Lightning Arrow|雷电之箭|
 |炎の矢|Fire Arrow|火焰之箭|
 |水の防壁|Water Wall|水之护墙|
+|樹の束縛|Bind|树之束缚|
+|茨の鞭|Thorn Whip|荆棘之鞭|
 |大火球|Bolide|大火球|
 
 #### 僧侣
@@ -64,6 +72,7 @@
 |日文形式|英文形式|中文含义|
 |:--:|:--:|:--:|
 |光の強化|Light Enhance|光之强化|
+|光の鼓舞|Light Encourage|光之鼓舞|
 |聖なる癒し|Holy Heal|神圣治愈|
 |聖なる浄め|Holy Purify|神圣净化|
 
