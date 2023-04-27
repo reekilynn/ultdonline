@@ -52,34 +52,34 @@
 
 #### 魔物使
 
-|日文形式|英文形式|中文含义|
-|:--:|:--:|:--:|
-|掴む手|Grasping Hand|捕捉之手|
+|日文形式|英文形式|中文含义|咒语|
+|:--:|:--:|:--:|:--:|
+|掴む手|Grasping Hand|捕捉之手|Tenebris - Capere Anima - Ignis|
 
 #### 魔术师
 
-|日文形式|英文形式|中文含义|
-|:--:|:--:|:--:|
-|雷の矢|Lightning Arrow|雷电之箭|
-|炎の矢|Fire Arrow|火焰之箭|
-|水の防壁|Water Wall|水之护墙|
-|樹の束縛|Bind|树之束缚|
-|茨の鞭|Thorn Whip|荆棘之鞭|
+|日文形式|英文形式|中文含义|咒语|
+|:--:|:--:|:--:|:--:|
+|雷の矢|Lightning Arrow|雷电之箭|Tonitrus - Sagitta - Ignis|
+|炎の矢|Fire Arrow|火焰之箭|Flamma - Sagitta - Ignis|
+|水の防壁|Water Wall|水之护墙|Aqua - Murum - Ardua|
+|樹の束縛|Bind|树之束缚|Ligneum - Vitis - Adligas|
+|茨の鞭|Thorn Whip|荆棘之鞭|Ligneum - Spina - Sectis|
 |大火球|Bolide|大火球|
 
 #### 僧侣
 
-|日文形式|英文形式|中文含义|
-|:--:|:--:|:--:|
-|光の強化|Light Enhance|光之强化|
-|光の鼓舞|Light Encourage|光之鼓舞|
-|聖なる癒し|Holy Heal|神圣治愈|
-|聖なる浄め|Holy Purify|神圣净化|
+|日文形式|英文形式|中文含义|咒语|
+|:--:|:--:|:--:|:--:|
+|光の強化|Light Enhance|光之强化|Lumin - Nubes - Fusione|
+|光の鼓舞|Light Encourage|光之鼓舞|Lumin - Virtus - Liberas|
+|聖なる癒し|Holy Heal|神圣治愈|Sacra - Premis - Fusione|
+|聖なる浄め|Holy Purify|神圣净化|Sacra - Pluvia - Tersus|
 
 #### 通用魔法
 
-|日文形式|英文形式|中文含义|
-|:--:|:--:|:--:|
-|癒しの雫|Healing Drop|治愈之滴|
-|鍵開け||开锁|
-|風の小鳥|Wind Bird|风之小鸟|
+|日文形式|英文形式|中文含义|咒语|
+|:--:|:--:|:--:|:--:|
+|癒しの雫|Healing Drop|治愈之滴|Sacra - Ros - Casus|
+|鍵開け||开锁|Ferrum - Clavis - Aperta|
+|風の小鳥|Wind Bird|风之小鸟|Ventus - Avis - Ignis|
