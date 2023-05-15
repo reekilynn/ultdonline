@@ -2,7 +2,7 @@
 
 An original *Mixed-Reality* novel.
 
-### Vol.1 Genjitsu~Shinshoku (2022.Nov.10)
+### Vol.1 Genjitsu∽Shinshoku (2022.Nov.10)
 
 - [Character Info v1.0](vol1/chara-info-v1.0.md)
 - [01](vol1/01-01.md)
@@ -18,3 +18,5 @@ An original *Mixed-Reality* novel.
 - [11](vol1/01-11.md)
 - [Character Info v1.1](vol1/chara-info-v1.1.md)
 - [Postscript](vol1/postscript.md)
+
+### Vol.2 Ikai∽Kengen (2023.Jul.7)
