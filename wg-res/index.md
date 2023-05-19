@@ -124,6 +124,8 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [微博合集 #7](archive/res-archive-wb-2022.md) (2022.Jan-2022.Dec)
 
+[微博合集 #8](archive/res-archive-wb-2023.md) (2023.Jan-)
+
 ## 转载资料
 
 [其实吧，刀剑神域也可以很好看的](data/data-130311-saop1-comment.md) (2013.Mar.11)
