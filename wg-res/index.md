@@ -143,3 +143,7 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 [SAO Full Dive舞台（川原脚本部分repo）](data/data-221108-saofd-repo.md) (2022.Nov.8)
 
 [对SAO伦理系统的一些胡思乱想](data/data-230217-sao-r18.md) (2023.Feb.17)
+
+[对UW神器的一些深入分析](data/data-230508-uw-weapons-analysis.md) (2023.May.8)
+
+[UW故事中的一些槽点](data/data-230606-uw-comment.md) (2023.Jun.6)
