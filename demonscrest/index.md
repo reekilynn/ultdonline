@@ -20,3 +20,8 @@ An original *Mixed-Reality* novel.
 - [Postscript](vol1/postscript.md)
 
 ### Vol.2 Ikai∽Kengen (2023.Jul.7)
+
+- [Character Info v1.1](vol1/chara-info-v1.1.md)
+- 01
+- 02
+- 03
