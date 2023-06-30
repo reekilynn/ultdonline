@@ -22,6 +22,6 @@ An original *Mixed-Reality* novel.
 ### Vol.2 Ikai∽Kengen (2023.Jul.7)
 
 - [Character Info v1.1](vol2/chara-info-v1.1.md)
-- 01
-- 02
+- [01](vol2/02-01.md)
+- [02](vol2/02-02.md)
 - 03
