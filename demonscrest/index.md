@@ -25,3 +25,12 @@ An original *Mixed-Reality* novel.
 - [01](vol2/02-01.md)
 - [02](vol2/02-02.md)
 - 03
+- 04
+- 05
+- 06
+- 07
+- 08
+- 09
+- 10
+- Character Info v1.2
+- Postscript
