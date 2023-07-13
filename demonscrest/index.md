@@ -32,5 +32,5 @@ An original *Mixed-Reality* novel.
 - 08
 - 09
 - 10
-- Character Info v1.2
-- Postscript
+- [Character Info v1.2](vol2/chara-info-v1.2.md)
+- [Postscript](vol2/postscript.md)
