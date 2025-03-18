@@ -132,6 +132,8 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [其实吧，刀剑神域也可以很好看的](data/data-130311-saop1-comment.md) (2013.Mar.11)
 
+[关于SAO&AW的一点全新构想](data/data-190810-sawahiro-sao-aw-predic.md) (2019.Aug.10)
+
 [MD游戏剧情：UW创世纪传说](data/data-221013-saomd-uwcreate.md) (2022.Oct.13)
 
 [UB游戏剧情：与PK中队的战斗](data/data-221013-saoub-part01-ggo.md) (2022.Oct.13)
