@@ -153,3 +153,5 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 [UW故事中的一些槽点](data/data-230606-uw-comment.md) (2023.Jun.6)
 
 [对UR存在目的的一点猜测](data/data-250305-blqz-ur-theories.md) (2025.Mar.5)
+
+[Unital Ring杂谈](data/data-250320-qtyl-unital-ring.md) (2025.Mar.20)
