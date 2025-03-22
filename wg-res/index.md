@@ -72,6 +72,8 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [Vol.27 Unital Ring VI 译者后记](postscript/res-post-230403-vol27.md) (2023.Apr.3)
 
+[Vol.28 Unital Ring VII 译者后记](postscript/res-post-250304-vol28.md) (2025.Mar.4)
+
 ## 短篇合集
 
 [Stage1st SAO专楼 Part.1](archive/res-archive-s1-sao-part1.md) (2012)
