@@ -130,7 +130,11 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 ## 转载资料
 
+[从web板到文库版，桐人与幸的关系演变](data/data-121227-jysw-sachi.md) (2012.Dec.27)
+
 [其实吧，刀剑神域也可以很好看的](data/data-130311-saop1-comment.md) (2013.Mar.11)
+
+[致爱丽丝——UW篇渣评(或者说是吐槽)](data/data-130403-kkzy-uw-comments.md) (2013.Apr.3)
 
 [关于SAO&AW的一点全新构想](data/data-190810-sawahiro-sao-aw-predic.md) (2019.Aug.10)
 
