@@ -134,9 +134,13 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [从web板到文库版，桐人与幸的关系演变](data/data-121227-jysw-sachi.md) (2012.Dec.27)
 
+[【考古】关于刀剑译名的一些考据（附黑历史）](data/data-130215-kkzy-sao-name.md) (2013.Feb.15)
+
 [其实吧，刀剑神域也可以很好看的](data/data-130311-saop1-comment.md) (2013.Mar.11)
 
 [致爱丽丝——UW篇渣评(或者说是吐槽)](data/data-130403-kkzy-uw-comments.md) (2013.Apr.3)
+
+[关于BB的相关理论的个人看法](data/data-131010-pokemon-bb-structure.md) (2013.Oct.10)
 
 [关于SAO&AW的一点全新构想](data/data-190810-sawahiro-sao-aw-predic.md) (2019.Aug.10)
 
@@ -157,6 +161,8 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 [对UW神器的一些深入分析](data/data-230508-uw-weapons-analysis.md) (2023.May.8)
 
 [UW故事中的一些槽点](data/data-230606-uw-comment.md) (2023.Jun.6)
+
+[「刀剑神域」为何译作『刀剑神域』](data/data-240814-swhr-sao-names.md) (2024.Aug.14)
 
 [对UR存在目的的一点猜测](data/data-250305-blqz-ur-theories.md) (2025.Mar.5)
 
