@@ -55,3 +55,9 @@ The afterstory sold on Comitia93 (Aug 2010) was also included.
 ## Demons' Crest
 An original *Mixed-Reality* novel.
 See [here](demonscrest/index.md) for details.
+
+## WordGear Research Archive
+
+A repository created by reekilynn, storing anslytic contents of Kawahara Reki's creations.
+
+See [here](wg-res/index.md) for details.
