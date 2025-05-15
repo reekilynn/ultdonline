@@ -13,7 +13,16 @@ See [here](sao-bunko/index.md) for details.
 
 ## Sword Art Online: Unital King
 A short novel for SAO game 10th anniversary.
+
+Translation: 邪恶霜精
+
 - [General Settings](sao-uk/settings.md)
+- [1](sao-uk/unital-king-01.md)
+- [2](sao-uk/unital-king-02.md)
+- [3](sao-uk/unital-king-03.md)
+- [4](sao-uk/unital-king-04.md)
+- [5](sao-uk/unital-king-05.md)
+- [Kawahara Reki Postscript](sao-uk/unital-king-atogaki.md)
 
 ## Chouzetsu Kasoku Burst Linker
 The original web published version of **Accel World** Vol.01 in Oct 2007.
