@@ -11,6 +11,10 @@ See [here](sao-web/index.md) for details.
 The commercial version released via Dengeki Bunko since Apr 2009.
 See [here](sao-bunko/index.md) for details.
 
+## Sword Art Online: Unital King
+A short novel for SAO game 10th anniversary.
+- [General Settings](sao-uk/settings.md)
+
 ## Chouzetsu Kasoku Burst Linker
 The original web published version of **Accel World** Vol.01 in Oct 2007.
 
