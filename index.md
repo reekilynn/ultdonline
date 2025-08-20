@@ -27,6 +27,8 @@ Translation: 邪恶霜精
 ## Chouzetsu Kasoku Burst Linker
 The original web published version of **Accel World** Vol.01 in Oct 2007.
 
+- [Brain Burst 2039 Wiki](burstlinker/bb2039wiki.md)
+
 ## Ultd.Online
 The very first source of **Sword Art Online** as an **R-18** manga published on Oct 2000.
 
