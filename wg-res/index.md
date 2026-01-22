@@ -46,6 +46,8 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [《这本轻小说真厉害！2023》川原专访](research/res-221125-reki-interview.md) (2022.Nov.25)
 
+[基于已有内容，对UR和SAOP的两个新推断](research/res-260122-narisaka-ashley.md) (2026.Jan.22)
+
 ## 译者后记
 
 [Vol.12 Alicization Rising 译者后记](postscript/res-post-130425-vol12.md) (2013.Apr.25)
