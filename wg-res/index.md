@@ -138,6 +138,8 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 ## 转载资料
 
+[SAO……吐槽向，剧透慎入](data/data-111015-sao-comment.md) (2011.Oct.15)
+
 [从web板到文库版，桐人与幸的关系演变](data/data-121227-jysw-sachi.md) (2012.Dec.27)
 
 [【考古】关于刀剑译名的一些考据（附黑历史）](data/data-130215-kkzy-sao-name.md) (2013.Feb.15)
