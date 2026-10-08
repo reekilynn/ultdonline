@@ -48,6 +48,8 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [基于已有内容，对UR和SAOP的两个新推断](research/res-260122-narisaka-ashley.md) (2026.Jan.22)
 
+[川原在同人创作时期使用的电脑配置考据](research/res-261008-hayrio-pc.md) (2026.Oct.8)
+
 ## 译者后记
 
 [Vol.12 Alicization Rising 译者后记](postscript/res-post-130425-vol12.md) (2013.Apr.25)
