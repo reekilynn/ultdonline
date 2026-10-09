@@ -50,6 +50,8 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [川原在同人创作时期使用的电脑配置考据](research/res-261008-hayrio-pc.md) (2026.Oct.8)
 
+[2019年SAO Ex-Chronicle 川原砾个人访谈](research/res-261009-saoxc-interview.md) (2026.Oct.9)
+
 ## 译者后记
 
 [Vol.12 Alicization Rising 译者后记](postscript/res-post-130425-vol12.md) (2013.Apr.25)
