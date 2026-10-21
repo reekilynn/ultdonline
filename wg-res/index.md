@@ -8,8 +8,6 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [SAO: Alicization Web翻译后记](research/res-130412-sao-uw-post.md) (2013.Apr.12)
 
-[Sakura-Con川原访谈](research/res-130413-reki-data.md) (2013.Apr.13)
-
 [Niconico百科上的亚丝娜角色资料](research/res-130529-asuna-nico-profile.md) (2013.May.29)
 
 [Brain Burst程序理论模型及其运作原理](research/res-131011-bbmodel.md) (2013.Oct.11)
@@ -25,8 +23,6 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 [说一下SAO原作存在的一些问题](research/res-190324-criticize-uw.md) (2019.Mar.24)
 
 [sao设定上的漏洞](research/res-190327-sao-issues-back.md) (2019.Mar.27)
-
-[电击G's Magazine采访专刊](research/res-190403-reki-interview.md) (2019.Apr.3)
 
 [基于SAO1-21和AW1-24的系统性解析(重点：结衣与黑白姐妹)](research/res-190811-yui.md) (2019.Aug.11)
 
@@ -44,13 +40,11 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [对SAOP的再认识——心意，系统与茅场晶彦](research/res-220713-saop.md) (2022.Jul.13)
 
-[《这本轻小说真厉害！2023》川原专访](research/res-221125-reki-interview.md) (2022.Nov.25)
-
 [基于已有内容，对UR和SAOP的两个新推断](research/res-260122-narisaka-ashley.md) (2026.Jan.22)
 
 [川原在同人创作时期使用的电脑配置考据](research/res-261008-hayrio-pc.md) (2026.Oct.8)
 
-[2019年SAO Ex-Chronicle 川原砾个人访谈](research/res-261009-saoxc-interview.md) (2026.Oct.9)
+
 
 ## 译者后记
 
@@ -139,6 +133,20 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 [微博合集 #8](archive/res-archive-wb-2023-2024.md) (2023.Jan-2024.Dec)
 
 [微博合集 #9](archive/res-archive-wb-2025.md) (2025.Jan-)
+
+## 川原访谈
+
+[Sakura-Con川原访谈](interview/res-interview-130413-sakuracon.md) (2013.Apr.13)
+
+[2017年SAO角色访谈系列](interview/res-interview-171210-dg-saocharas.md) (2017.Feb.10-2017.Dec.10)
+
+[电击G's Magazine采访专刊](interview/res-interview-190403-dg-gsmaga.md) (2019.Apr.3)
+
+[《这本轻小说真厉害！2023》川原专访](interview/res-interview-221125-konoranobe.md) (2022.Nov.25)
+
+[2019年SAO Ex-Chronicle 川原砾个人访谈](interview/res-interview-261009-exchronicle.md) (2026.Oct.9)
+
+[2023年SAO游戏十周年 川原x二见对谈](interview/res-interview-261021-saogame10th.md) (2026.Oct.21)
 
 ## 转载资料
 
