@@ -183,3 +183,5 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 [Unital Ring杂谈](data/data-250320-qtyl-unital-ring.md) (2025.Mar.20)
 
 [SAO Unital Ring VII 东京朝圣攻略指引](data/data-260125-nekohirosama-sao-bamboolounge.md) (2026.Jan.25)
+
+[SAO游戏原创角色秘密设定与Q&A](data/data-261021-sao-gamechara-hiddendata.md) (2026.Oct.21)
