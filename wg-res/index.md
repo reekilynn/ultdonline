@@ -62,11 +62,15 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [Vol.21 Unital Ring I 译者后记](postscript/res-post-190328-vol21.md) (2019.Mar.28)
 
+[Material Edition: Remix 译者后记](postscript/res-post-191013-meremix.md) (2019.Oct.13)
+
 [Vol.22 Kiss and Fly 译者后记](postscript/res-post-191105-vol22.md) (2019.Nov.5)
 
 [Vol.24 Unital Ring III 译者后记](postscript/res-post-201207-vol24.md) (2020.Dec.7)
 
 [Vol.25 Unital Ring IV 译者后记](postscript/res-post-210327-vol25.md) (2021.Mar.27)
+
+[Sugary Days 译者后记](postscript/res-post-210420-sd-rev.md) (2021.Apr.20)
 
 [Vol.26 Unital Ring V 译者后记](postscript/res-post-220203-vol26.md) (2022.Feb.3)
 
