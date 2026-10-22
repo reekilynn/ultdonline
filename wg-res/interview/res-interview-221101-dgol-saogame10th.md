@@ -1,5 +1,7 @@
 # 《刀剑神域》游戏系列十周年特别访谈
 
+Source: [link1](https://dengekionline.com/articles/153210/) [link2](https://dengekionline.com/articles/153268/) [link3](https://dengekionline.com/articles/153271/)
+
 2022年，《刀剑神域》动画迎来了十周年，而到了2023年，游戏系列也将迎来十周年。本次访谈将主要聚焦于游戏领域，邀请四位长期以来一直支持这一系列发展的关键人物展开对谈。
 
 参与本次访谈的四位嘉宾分别是：电击文库《刀剑神域》系列作者川原砾老师、同时担任川原老师责任编辑及Straight Edge代表的三木一马先生、《刀剑神域》游戏系列总制作人二见鹰介先生，以及负责《刀剑神域：Integral Factor》和《刀剑神域：Variant Showdown》制作的竹内智彦先生。
