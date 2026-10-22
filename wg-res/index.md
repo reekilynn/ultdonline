@@ -146,6 +146,10 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [电击G's Magazine采访专刊](interview/res-interview-190403-dg-gsmaga.md) (2019.Apr.3)
 
+[电击Online川原20问](interview/res-interview-200920-dgol-wou-ur.md) (2020.Sep.20)
+
+[Book Asahi川原砾访谈](interview/res-interview-211127-bkash-saop.md) (2021.Nov.27)
+
 [2022年SAO游戏十周年访谈](interview/res-interview-221101-dgol-saogame10th.md) (2022.Nov.1)
 
 [《这本轻小说真厉害！2023》川原专访](interview/res-interview-221125-konoranobe.md) (2022.Nov.25)
