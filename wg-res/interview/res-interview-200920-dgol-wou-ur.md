@@ -1,5 +1,7 @@
 # 《刀剑神域》川原砾老师的20个问题：回顾动画历程，畅谈《Unital Ring》篇的看点等
 
+Source: [link](https://dengekionline.com/articles/49672/)
+
 为大家带来电击文库《刀剑神域》的作者川原砾老师的专访。
 
 昨晚，电视动画《刀剑神域 Alicization War of Underworld》终于播出了最终回。最终回播出后，官方还宣布启动《刀剑神域 Progressive》的动画企划，可谓话题不断。在这样的背景下，我们通过邮件采访的形式，请川原砾老师回答了各种各样的问题。
