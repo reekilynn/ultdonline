@@ -184,7 +184,7 @@ Source: [Link](http://www.t-ono.net/sakura-con-2013/Reki-Kawahara-Reception-Info
 
 ## Kawahara Reki Press conference @ Sakura-Con 2013
 
-Source: [Link](http://www.t-ono.net/sakura-con-2013/Reki-Kawahara-Press-Conference-Sakura-Con-2013.html)
+Source: [Link1](http://www.t-ono.net/sakura-con-2013/Reki-Kawahara-Press-Conference-Sakura-Con-2013.html) [Link2](https://j-entonline.com/media-qa-with-reki-kawahara-creator-of-accel-world-and-sword-art-online-by-dennis-a-amith-and-michelle-tymon-j-ent-interviews-and-articles/)
 
 Q1：如果SAO变为现实世界的MMO，您会去玩吗？
 
