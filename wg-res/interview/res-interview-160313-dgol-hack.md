@@ -1,5 +1,7 @@
 # 为纪念《Code Register》与《New World》联动，川原砾、松山洋、二见鹰介展开特别对谈！
 
+Source: [link](https://dengekionline.com/elem/000/001/232/1232871/)
+
 万代南梦宫娱乐宣布，旗下正在运营的 iOS／Android RPG《刀剑神域 Code Register》与《New World》将于 3 月 13 日起展开联动。本文将为大家带来两部作品的核心人物之间的对谈内容。
 
 本次联动中，两款游戏的角色与武器将相互登场，玩家也可以在对方的作品中获得相关内容。在《Code Register》中，玩家不仅可以将身穿哈塞沃服装的五星桐人收入队伍，还能挑战会掉落六星三爪痕的高难度地下城。
