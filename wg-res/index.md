@@ -140,23 +140,71 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 ## 川原访谈
 
+[《加速世界》第一卷发售川原专访](interview/res-interview-090210-dgol-aw1.md) (2009.Feb.10)
+
+[川原&三木一马专访](interview/res-interview-120917-kbd-webnovel.md) (2012.Sep.17)
+
 [Sakura-Con川原访谈](interview/res-interview-130413-sakuracon.md) (2013.Apr.13)
+
+[ANN Australia《加速世界》BD发售专访](interview/res-interview-140602-annau-awbd.md) (2014.Jun.2)
+
+[电击文库Fighting展川原专访](interview/res-interview-140811-dgol-isolator.md) (2014.Aug.11)
+
+[周刊ASCII川原专访](interview/res-interview-150209-wkascii.md) (2015.Feb.9)
+
+[《SAO CR》《.hack NW》川原&松山&二见特别对谈](interview/res-interview-160313-dgol-hack.md) (2016.Mar.13)
+
+[4Gamer 原田&川原特别对谈](interview/res-interview-170325-4gamer-harada.md) (2017.Mar.25)
+
+[剧场版《Ordinal Scale》伊藤&川原/柏田/LiSA特别专访](interview/res-interview-170927-anzx-osmovie.md) (2017.Sep.27)
 
 [2017年SAO角色访谈系列](interview/res-interview-171210-dg-saocharas.md) (2017.Feb.10-2017.Dec.10)
 
+[《头号玩家》欧内斯特·克莱恩&川原对谈](interview/res-interview-180228-natalie-rp1.md) (2018.Feb.28)
+
+[《SAO外传GGO》时雨泽惠一&川原对谈](interview/res-interview-180622-natalie-altggo.md) (2018.Jun.22)
+
+[《SAO vs 某系列》镰池和马&川原对谈](interview/res-interview-181012-natalie-uw-toaru.md) (2018.Oct.12)
+
 [电击G's Magazine采访专刊](interview/res-interview-190403-dg-gsmaga.md) (2019.Apr.3)
+
+[《SAO Underworld》岛崎信长&川原 特别对谈](interview/res-interview-190411-natalie-smzk.md) (2019.Apr.11)
+
+[Coeteco川原特别专访](interview/res-interview-190913-coeteco-sao.md) (2019.Sep.13)
+
+[《SAO UW WoU》松冈祯丞&川原对谈](interview/res-interview-200612-davinci-uwfinal.md) (2020.Jun.12)
 
 [电击Online川原20问](interview/res-interview-200920-dgol-wou-ur.md) (2020.Sep.20)
 
+[IGN三宅阳一郎&川原对谈](interview/res-interview-210426-ign-aidev.md) (2021.Apr.26)
+
+[Spice《SAOP剧场版：无星夜的咏叹调》川原专访](interview/res-interview-211123-spice-saop1.md) (2021.Nov.23)
+
 [Book Asahi川原砾访谈](interview/res-interview-211127-bkash-saop.md) (2021.Nov.27)
 
+[ASCII川原&abec对谈](interview/res-interview-220331-ascii-abec-creatorenvs.md) (2022.Mar.31)
+
 [2022年SAO游戏十周年访谈](interview/res-interview-221101-dgol-saogame10th.md) (2022.Nov.1)
+
+[LN News《恶魔纹章1》发售独家专访](interview/res-interview-221110-lnnews-dc1.md) (2022.Nov.10)
 
 [《这本轻小说真厉害！2023》川原专访](interview/res-interview-221125-konoranobe.md) (2022.Nov.25)
 
 [2019年SAO Ex-Chronicle 川原砾个人访谈](interview/res-interview-261009-exchronicle.md) (2026.Oct.9)
 
 [2023年SAO游戏十周年 川原x二见对谈](interview/res-interview-261021-saogame10th.md) (2026.Oct.21)
+
+## 官方设定资料
+
+[Ordinal Scale剧场版角色个人信息](settings/settings-170927-saoos-charadata.md) (2017.Sep.27)
+
+[Ordinal Scale游戏设定](settings/settings-170927-saoos-gameset.md) (2017.Sep.27)
+
+[艾恩葛朗特创世纪](settings/settings-200628-aincrad-chronicle.md) (2020.Jun.28)
+
+[游戏线各角色的结局](settings/settings-231005-saolr-chara-endings.md) (2023.Oct.5)
+
+[SAO游戏原创角色秘密设定与Q&A](settings/settings-261021-sao-gamechara-hiddendata.md) (2026.Oct.21)
 
 ## 转载资料
 
@@ -173,8 +221,6 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 [关于BB的相关理论的个人看法](data/data-131010-pokemon-bb-structure.md) (2013.Oct.10)
 
 [关于SAO&AW的一点全新构想](data/data-190810-sawahiro-sao-aw-predic.md) (2019.Aug.10)
-
-[艾恩葛朗特创世纪](data/data-200628-aincrad-chronicle.md) (2020.Jun.28)
 
 [MD游戏剧情：UW创世纪传说](data/data-221013-saomd-uwcreate.md) (2022.Oct.13)
 
@@ -201,5 +247,3 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 [Unital Ring杂谈](data/data-250320-qtyl-unital-ring.md) (2025.Mar.20)
 
 [SAO Unital Ring VII 东京朝圣攻略指引](data/data-260125-nekohirosama-sao-bamboolounge.md) (2026.Jan.25)
-
-[SAO游戏原创角色秘密设定与Q&A](data/data-261021-sao-gamechara-hiddendata.md) (2026.Oct.21)
