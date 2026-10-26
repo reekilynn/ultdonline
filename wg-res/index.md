@@ -204,6 +204,8 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [艾恩葛朗特创世纪](settings/settings-200628-aincrad-chronicle.md) (2020.Jun.28)
 
+[MD游戏剧情：UW创世纪传说](settings/settings-221013-saomd-uwcreate.md) (2022.Oct.13)
+
 [游戏线各角色的结局](settings/settings-231005-saolr-chara-endings.md) (2023.Oct.5)
 
 [SAO游戏原创角色秘密设定与Q&A](settings/settings-261021-sao-gamechara-hiddendata.md) (2026.Oct.21)
@@ -224,7 +226,7 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [关于SAO&AW的一点全新构想](data/data-190810-sawahiro-sao-aw-predic.md) (2019.Aug.10)
 
-[MD游戏剧情：UW创世纪传说](data/data-221013-saomd-uwcreate.md) (2022.Oct.13)
+
 
 [UB游戏剧情：与PK中队的战斗](data/data-221013-saoub-part01-ggo.md) (2022.Oct.13)
 
