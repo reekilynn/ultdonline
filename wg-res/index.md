@@ -44,6 +44,8 @@ Here is a repository for reekilynn's wordgear research focusing on sao and aw.
 
 [川原在同人创作时期使用的电脑配置考据](research/res-261008-hayrio-pc.md) (2026.Oct.8)
 
+[为什么BIC会被限制使用——「老师」、魔女与自卫官](research/res-261026-magis-mutasina.md) (2026.Oct.26)
+
 
 
 ## 译者后记
