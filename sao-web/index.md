@@ -9,6 +9,7 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 ## Sword Art Online 1: Aincrad (2002.Nov.29-2002.Dec.12)
 
 - [01-04](sao1-aincrad/sao1-01.md)
+- [05-07](sao1-aincrad/sao1-02.md)
 
 ## Sword Art Online Ex1: 黒の剣士 (2003.Feb.12-2003.Feb.24)
 ## Sword Art Online Ex2: Four Days (2003.Feb.24-2003.Jun.3)
