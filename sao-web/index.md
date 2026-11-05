@@ -20,6 +20,9 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 ## Sword Art Online Ex2: 4 Days (2003.Feb.24-2003.Jun.3)
 ## Sword Art Online Ex3: ココロの温度 (2003.Jun.??-2003.Jul.??)
 ## Sword Art Online X1: #16.5 (2003.May.12)
+
+- [Main Text](sao1-aincrad/sao1-x1.md)
+
 ## Sword Art Online Ex3.1: サルビア (2003.Aug.10)
 ## Sword Art Online 2: フェアリィ・ダンス (2003.Jun.??-2003.Nov.22)
 ## Sword Art Online 3: 死铳 (2004.Jan.31-2004.May.14)
