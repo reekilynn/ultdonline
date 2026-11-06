@@ -38,7 +38,7 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 ## Sword Art Online Ex6: 赤鼻のトナカイ (2005.Dec.23-2005.Dec.29)
 ## Sword Art Online Ex3.2: VRMMO開発秘話 (2006.??.??)
 ## Sword Art Online 4: Alicization (2005.Jan.31-2008.Jul.25)
-### Chapter 1: Dream in Underworld (2005.Jan.31-2005.Jun.14)
+### Chapter 1: Kirito in Underworld (2005.Jan.31-2005.Jun.14)
 ### Chapter 2: Soul Translation (2005.Jun.22-2005.Jul.15)
 ### Chapter 3: Underworld-Nord (2005.Jul.26-2005.Oct.9)
 ### Chapter 4: Ocean Turtle (2005.Oct.18-2006.Jan.19)
