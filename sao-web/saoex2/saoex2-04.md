@@ -144,7 +144,7 @@
 
 &emsp;
 
-　　（Sword Art Online　外传2　Four Days　完）
+　　（Sword Art Online　外传2　4 Days　完）
 
 &emsp;
 
