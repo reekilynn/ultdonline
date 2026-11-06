@@ -24,7 +24,7 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 ## Sword Art Online Ex2: 4 Days (2003.Feb.24-2003.Jun.3)
 
 - [Day 1](saoex2/saoex2-01.md)
-- 
+- [Day 2](saoex2/saoex2-02.md)
 
 ## Sword Art Online Ex3: ココロの温度 (2003.Jun.??-2003.Jul.??)
 ## Sword Art Online X1: #16.5 (2003.May.12)
