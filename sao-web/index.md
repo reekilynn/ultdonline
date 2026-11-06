@@ -19,7 +19,7 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 ## Sword Art Online Ex1: 黒の剣士 (2003.Feb.12-2003.Feb.24)
 
 - [01-05](saoex1/saoex1-01.md)
-- 
+- [06-09](saoex1/saoex1-02.md)
 
 ## Sword Art Online Ex2: 4 Days (2003.Feb.24-2003.Jun.3)
 ## Sword Art Online Ex3: ココロの温度 (2003.Jun.??-2003.Jul.??)
