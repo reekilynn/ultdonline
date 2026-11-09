@@ -41,7 +41,7 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 ## Sword Art Online Ex3.1: サルビア (2003.Aug.10)
 ## Sword Art Online 3: 死铳 (2004.Jan.31-2004.May.14)
 ## Sword Art Online Ex4: 絶剣 (2004.Jul.8-2004.Oct.10)
-## Sword Art Online Ex6: 赤鼻のトナカイ (2005.Dec.23-2005.Dec.29)
+## Sword Art Online Ex1.3: 赤鼻のトナカイ (2005.Dec.23-2005.Dec.29)
 ## Sword Art Online Ex3.2: VRMMO開発秘話 (2006.??.??)
 ## Sword Art Online 4: Alicization (2005.Jan.31-2008.Jul.25)
 ### Chapter 1: Kirito in Underworld (2005.Jan.31-2005.Jun.14)
