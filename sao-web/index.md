@@ -41,7 +41,8 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 
 - [Prologue: Fall, 2014](sao2-fairydance/sao2-00.md)
 - [Chapter 1: Early Spring, 2015](sao2-fairydance/sao2-01.md)
-- Chapter 2: Swordsman of the Fairy Realm
+- [Chapter 2: Swordsman of the Fairy Realm (Part 1)](sao2-fairydance/sao2-02.md)
+- [Chapter 2: Swordsman of the Fairy Realm (Part 2)](sao2-fairydance/sao2-03.md)
 - Chapter 3: The Cage in the Tree (Part 1)
 - Chatper 3: The Cage in the Tree (Part 2)
 - Chapter 3: The Cage in the Tree (Part 3)
