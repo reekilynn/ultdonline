@@ -38,6 +38,14 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 - [Main Text](sao1-aincrad/sao1-x1.md)
 
 ## Sword Art Online 2: フェアリィ・ダンス (2003.Jun.??-2003.Nov.22)
+### Prologue: Fall, 2014
+
+- [Prologue](sao2-fairydance/sao2-00.md)
+
+### Chapter 1: Early Spring, 2015
+
+- [01-07](sao2-fairydance/sao2-01.md)
+
 ## Sword Art Online Ex3.1: サルビア (2003.Aug.10)
 ## Sword Art Online 3: 死铳 (2004.Jan.31-2004.May.14)
 ## Sword Art Online Ex4: 絶剣 (2004.Jul.8-2004.Oct.10)
