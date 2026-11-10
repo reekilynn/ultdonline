@@ -2,6 +2,8 @@
 
 &emsp;
 
+<p align="center"><img src="./saoex2-title.jpg" alt="saoex2-title"></p>
+
 ### 第一天
 
 　　亚丝娜将每天的起床闹铃设置在七点五十分。
