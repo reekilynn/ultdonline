@@ -38,23 +38,18 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 - [Main Text](sao1-aincrad/sao1-x1.md)
 
 ## Sword Art Online 2: フェアリィ・ダンス (2003.Jun.??-2003.Nov.22)
-### Prologue: Fall, 2014
 
-- [Prologue](sao2-fairydance/sao2-00.md)
-
-### Chapter 1: Early Spring, 2015
-
-- [01-07](sao2-fairydance/sao2-01.md)
-
-### Chapter 2: Swordsman of the Fairy Realm
-
-### Chapter 3: The Cage in the Tree
-
-### Chapter 4: Assault on Yggdrasil
-
-### Epilogue 1: Early Summer, 2015
-
-### Epilogue 2: Return to the Floating Castle
+- [Prologue: Fall, 2014](sao2-fairydance/sao2-00.md)
+- [Chapter 1: Early Spring, 2015](sao2-fairydance/sao2-01.md)
+- Chapter 2: Swordsman of the Fairy Realm
+- Chapter 3: The Cage in the Tree (Part 1)
+- Chatper 3: The Cage in the Tree (Part 2)
+- Chapter 3: The Cage in the Tree (Part 3)
+- Chapter 4: Assault on Yggdrasil (Part 1)
+- Chapter 4: Assault on Yggdrasil (Part 2)
+- Chapter 4: Assault on Yggdrasil (Part 3)
+- Epilogue 1: Early Summer, 2015
+- Epilogue 2: Return to the Floating Castle
 
 ## Sword Art Online Ex3.1: サルビア (2003.Aug.10)
 ## Sword Art Online 3: 死铳 (2004.Jan.31-2004.May.14)
