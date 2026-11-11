@@ -45,7 +45,7 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 - [Chapter 2: Swordsman of the Fairy Realm (Part 2)](sao2-fairydance/sao2-03.md)
 - [Chapter 3: The Cage in the Tree (Part 1)](sao2-fairydance/sao2-04.md)
 - [Chatper 3: The Cage in the Tree (Part 2)](sao2-fairydance/sao2-05.md)
-- Chapter 3: The Cage in the Tree (Part 3)
+- [Chapter 3: The Cage in the Tree (Part 3)](sao2-fairydance/sao2-06.md)
 - Chapter 4: Assault on Yggdrasil (Part 1)
 - Chapter 4: Assault on Yggdrasil (Part 2)
 - Chapter 4: Assault on Yggdrasil (Part 3)
