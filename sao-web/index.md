@@ -49,8 +49,8 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 - [Chapter 4: Assault on Yggdrasil (Part 1)](sao2-fairydance/sao2-07.md)
 - [Chapter 4: Assault on Yggdrasil (Part 2)](sao2-fairydance/sao2-08.md)
 - [Chapter 4: Assault on Yggdrasil (Part 3)](sao2-fairydance/sao2-09.md)
-- Epilogue 1: Early Summer, 2015
-- Epilogue 2: Return to the Floating Castle
+- [Epilogue 1: Early Summer, 2015](sao2-fairydance/sao2-10.md)
+- [Epilogue 2: Return to the Floating Castle](sao2-fairydance/sao2-11.md)
 
 ## Sword Art Online Ex1.1: サルビア (2003.Aug.10)
 ## Sword Art Online 3: 死铳 (2004.Jan.31-2004.May.14)
