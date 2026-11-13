@@ -58,8 +58,8 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 
 ## Sword Art Online 3: 死铳 (2004.Jan.31-2004.May.14)
 
-- Prologue: Winter, 2015
-- Chapter 1: Erosion of Murderous Intent
+- [Prologue: Winter, 2015](sao3-deathgun/sao3-00.md)
+- [Chapter 1: Erosion of Murderous Intent](sao3-deathgun/sao3-01.md)
 - Chapter 2: Goddess of the Netherworld
 - Chapter 3: Memory of the Right Hand
 - Interlude: Number of Loads "7"
