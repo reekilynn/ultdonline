@@ -57,6 +57,21 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 - [Main Text](saoex1-1/saoex1-1-01.md)
 
 ## Sword Art Online 3: 死铳 (2004.Jan.31-2004.May.14)
+
+- Prologue: Winter, 2015
+- Chapter 1: Erosion of Murderous Intent
+- Chapter 2: Goddess of the Netherworld
+- Chapter 3: Memory of the Right Hand
+- Interlude: Number of Loads "7"
+- Chapter 4: Lone Sword/Bullet Rain (Part 1)
+- Chapter 4: Lone Sword/Bullet Rain (Part 2)
+- Chapter 5: The Gun that Calls Death (Part 1)
+- Chapter 5: The Gun that Calls Death (Part 2)
+- Chapter 5: The Gun that Calls Death (Part 3)
+- Chapter 5: The Gun that Calls Death (Part 4)
+- Chapter 5: The Gun that Calls Death (Part 5)
+- Epilogue: True Real
+
 ## Sword Art Online Ex1.2: VRMMO開発悲話 (2004.May.??)
 
 - [Main Text](saoex1-2/saoex1-2-01.md)
