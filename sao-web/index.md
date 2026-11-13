@@ -54,7 +54,7 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 
 ## Sword Art Online Ex1.1: サルビア (2003.Aug.10)
 
-- [Main Text](sao2-fairydance/sao2-ex11.md)
+- [Main Text](saoex1-1/saoex1-1-01.md)
 
 ## Sword Art Online 3: 死铳 (2004.Jan.31-2004.May.14)
 ## Sword Art Online Ex1.2: VRMMO開発秘話 (2004.May.??)
