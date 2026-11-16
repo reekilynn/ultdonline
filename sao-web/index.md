@@ -62,8 +62,8 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 - [Chapter 1: Erosion of Murderous Intent](sao3-deathgun/sao3-01.md)
 - [Chapter 2: Goddess of the Netherworld](sao3-deathgun/sao3-02.md)
 - [Chapter 3: Memory of the Right Hand](sao3-deathgun/sao3-03.md)
-- Interlude: Number of Loads "7"
-- Chapter 4: Lone Sword/Bullet Rain (Part 1)
+- [Interlude: Number of Loads "7"](sao3-deathgun/sao3-04.md)
+- [Chapter 4: Lone Sword/Bullet Rain (Part 1)](sao3-deathgun/sao3-05.md)
 - Chapter 4: Lone Sword/Bullet Rain (Part 2)
 - Chapter 5: The Gun that Calls Death (Part 1)
 - Chapter 5: The Gun that Calls Death (Part 2)
