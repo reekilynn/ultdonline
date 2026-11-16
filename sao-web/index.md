@@ -60,7 +60,7 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 
 - [Prologue: Winter, 2015](sao3-deathgun/sao3-00.md)
 - [Chapter 1: Erosion of Murderous Intent](sao3-deathgun/sao3-01.md)
-- Chapter 2: Goddess of the Netherworld
+- [Chapter 2: Goddess of the Netherworld](sao3-deathgun/sao3-02.md)
 - Chapter 3: Memory of the Right Hand
 - Interlude: Number of Loads "7"
 - Chapter 4: Lone Sword/Bullet Rain (Part 1)
