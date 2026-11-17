@@ -121,6 +121,23 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 - 01-03
 
 ### Chapter 7: Central Cathedral (2006.May.16-2007.Sep.12)
+
+> bunko chap6&7, txt 18-21
+- 01-02
+- 03-04
+> bunko chap8, txt 22-25p1
+- 05-07
+> bunko chap9-10, txt 25p2-27p1
+- 08-09
+> bunko chap11-12, txt 27p2-30p1
+- 10-11
+- 12-14
+> bunko chap13, txt 30p2-34
+- 15-16
+- 17-19
+> bunko chap15p1, txt 35
+- Interlude II
+
 ### Chapter 8: War of Underworld (2007.Sep.15-2008.Jul.2)
 ### Epilogue: ALICE (2008.Jul.5-2008.Jul.25)
 ### Reader Comments and Kunori Responses (2008.Sep.12)
