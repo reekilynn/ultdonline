@@ -92,8 +92,21 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 
 ## Sword Art Online 4: Alicization (2005.Jan.31-2008.Jul.25)
 ### Chapter 1: Kirito in Underworld (2005.Jan.31-2005.Jun.14)
+
+- 01-02
+- 03-04
+
 ### Chapter 2: Soul Translation (2005.Jun.22-2005.Jul.15)
+
+- 01-03
+- Interlude I
+
 ### Chapter 3: Underworld-Nord (2005.Jul.26-2005.Oct.9)
+
+- 01-02
+- 03-04
+- 05-06
+
 ### Chapter 4: Ocean Turtle (2005.Oct.18-2006.Jan.19)
 ### Chapter 5: Sword Academy (2006.Jan.20-2006.Feb.24)
 ### Chapter 6: Gabriel Miller (2006.Mar.2-2006.May.1)
