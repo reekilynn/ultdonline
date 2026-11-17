@@ -108,8 +108,18 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 - 05-06
 
 ### Chapter 4: Ocean Turtle (2005.Oct.18-2006.Jan.19)
+
+- 01-03
+
 ### Chapter 5: Sword Academy (2006.Jan.20-2006.Feb.24)
+
+- 01-03
+- 04-05
+
 ### Chapter 6: Gabriel Miller (2006.Mar.2-2006.May.1)
+
+- 01-03
+
 ### Chapter 7: Central Cathedral (2006.May.16-2007.Sep.12)
 ### Chapter 8: War of Underworld (2007.Sep.15-2008.Jul.2)
 ### Epilogue: ALICE (2008.Jul.5-2008.Jul.25)
