@@ -63,14 +63,10 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 - [Chapter 2: Goddess of the Netherworld](sao3-deathgun/sao3-02.md)
 - [Chapter 3: Memory of the Right Hand](sao3-deathgun/sao3-03.md)
 - [Interlude: Number of Loads "7"](sao3-deathgun/sao3-04.md)
-- [Chapter 4: Lone Sword/Bullet Rain (Part 1)](sao3-deathgun/sao3-05.md)
-- [Chapter 4: Lone Sword/Bullet Rain (Part 2)](sao3-deathgun/sao3-06.md)
-- [Chapter 5: The Gun that Calls Death (Part 1)](sao3-deathgun/sao3-07.md)
-- [Chapter 5: The Gun that Calls Death (Part 2)](sao3-deathgun/sao3-08.md)
-- [Chapter 5: The Gun that Calls Death (Part 3)](sao3-deathgun/sao3-09.md)
-- [Chapter 5: The Gun that Calls Death (Part 4)](sao3-deathgun/sao3-10.md)
-- [Chapter 5: The Gun that Calls Death (Part 5)](sao3-deathgun/sao3-11.md)
-- Chapter 5: The Gun that Calls Death (Part 6)
+- [Chapter 4: Lone Sword/Bullet Rain](sao3-deathgun/sao3-05.md)
+- [Chapter 5: The Gun that Calls Death (Part 1)](sao3-deathgun/sao3-06.md)
+- [Chapter 5: The Gun that Calls Death (Part 2)](sao3-deathgun/sao3-07.md)
+- [Chapter 5: The Gun that Calls Death (Part 3)](sao3-deathgun/sao3-08.md)
 - Epilogue: True Real
 
 ## Sword Art Online Ex1.2: VRMMO開発悲話 (2004.May.??)
