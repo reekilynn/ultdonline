@@ -67,9 +67,10 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 - [Chapter 4: Lone Sword/Bullet Rain (Part 2)](sao3-deathgun/sao3-06.md)
 - [Chapter 5: The Gun that Calls Death (Part 1)](sao3-deathgun/sao3-07.md)
 - [Chapter 5: The Gun that Calls Death (Part 2)](sao3-deathgun/sao3-08.md)
-- Chapter 5: The Gun that Calls Death (Part 3)
-- Chapter 5: The Gun that Calls Death (Part 4)
-- Chapter 5: The Gun that Calls Death (Part 5)
+- [Chapter 5: The Gun that Calls Death (Part 3)](sao3-deathgun/sao3-09.md)
+- [Chapter 5: The Gun that Calls Death (Part 4)](sao3-deathgun/sao3-10.md)
+- [Chapter 5: The Gun that Calls Death (Part 5)](sao3-deathgun/sao3-11.md)
+- Chapter 5: The Gun that Calls Death (Part 6)
 - Epilogue: True Real
 
 ## Sword Art Online Ex1.2: VRMMO開発悲話 (2004.May.??)
