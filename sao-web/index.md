@@ -67,7 +67,7 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 - [Chapter 5: The Gun that Calls Death (Part 1)](sao3-deathgun/sao3-06.md)
 - [Chapter 5: The Gun that Calls Death (Part 2)](sao3-deathgun/sao3-07.md)
 - [Chapter 5: The Gun that Calls Death (Part 3)](sao3-deathgun/sao3-08.md)
-- Epilogue: True Real
+- [Epilogue: True Real](sao3-deathgun/sao3-09.md)
 
 ## Sword Art Online Ex1.2: VRMMO開発悲話 (2004.May.??)
 
