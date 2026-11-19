@@ -80,8 +80,8 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 - 05-07
 - 08-09
 - 10-11
-- Afterword by Kunori
 - An additional epilogue
+- Afterword by Kunori
 
 ## Sword Art Online Ex1.3: 赤鼻のトナカイ (2005.Dec.23-2005.Dec.29)
 
