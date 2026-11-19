@@ -76,7 +76,7 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 ## Sword Art Online Ex4: 絶剣 (2004.Jul.8-2004.Oct.10)
 
 - [01-02](saoex4-zekken/saoex4-01.md)
-- 03-04
+- [03-04](saoex4-zekken/saoex4-02.md)
 - 05-07
 - 08-09
 - 10-11
