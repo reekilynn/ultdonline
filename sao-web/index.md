@@ -8,6 +8,8 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 
 ## Sword Art Online 1: Aincrad (2002.Nov.29-2002.Dec.12)
 
+> 身为网游玩家的桐人，通过最新型的全感觉机型《NerveGear》登录到了VRMMO游戏《Sword Art Online》。然而，这个世界却是某位天才以其疯狂和热情构筑的，不可注销的死亡游戏世界——
+
 - [01-04](sao1-aincrad/sao1-01.md)
 - [05-07](sao1-aincrad/sao1-02.md)
 - [08-11](sao1-aincrad/sao1-03.md)
@@ -18,10 +20,14 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 
 ## Sword Art Online Ex1: 黒の剣士 (2003.Feb.12-2003.Feb.24)
 
+> 在深邃的森林中迷路的驯兽师西莉卡，于绝望的深渊中遇到了一位剑士。
+
 - [01-05](saoex1/saoex1-01.md)
 - [06-09](saoex1/saoex1-02.md)
 
 ## Sword Art Online Ex2: 4 Days (2003.Feb.24-2003.Jun.3)
+
+> 亚丝娜遇到的丧失记忆的少女。寻找她的家的路途，也是亚丝娜面对自己过去与未来的旅途。
 
 - [Day 1](saoex2/saoex2-01.md)
 - [Day 2](saoex2/saoex2-02.md)
@@ -29,6 +35,8 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 - [Ending epilogue: Day 4](saoex2/saoex2-04.md)
 
 ## Sword Art Online Ex3: ココロの温度 (2003.Jun.??-2003.Jul.??)
+
+> 锻造师莉兹贝特因为一件小事而陷入了和合不来的剑士桐人共同寻找道具的状况。等待他们的，是巨龙居住的山上的陷阱——
 
 - [01-02](saoex3/saoex3-01.md)
 - [03-04](saoex3/saoex3-02.md)
@@ -38,6 +46,8 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 - [Main Text](sao1-aincrad/sao1-x1.md)
 
 ## Sword Art Online 2: フェアリィ・ダンス (2003.Jun.??-2003.Nov.22)
+
+> 经历重重苦难而从死亡游戏中逃脱的桐人，身旁却没有了那个本该在那里的人。为了夺回被夺去的事物，少年再次奔赴虚拟的战场。
 
 - [Prologue: Fall, 2014](sao2-fairydance/sao2-00.md)
 - [Chapter 1: Early Spring, 2015](sao2-fairydance/sao2-01.md)
@@ -58,6 +68,8 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 
 ## Sword Art Online 3: 死铳 (2004.Jan.31-2004.May.14)
 
+> 饱受幼时卷入的案件的记忆的折磨的少女诗浓，在VRMMO世界《Gun Gale Online》中被更大的恶意袭击。
+
 - [Prologue: Winter, 2015](sao3-deathgun/sao3-00.md)
 - [Chapter 1: Erosion of Murderous Intent](sao3-deathgun/sao3-01.md)
 - [Chapter 2: Goddess of the Netherworld](sao3-deathgun/sao3-02.md)
@@ -75,9 +87,11 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 
 ## Sword Art Online Ex4: 絶剣 (2004.Jul.8-2004.Oct.10)
 
+> 在阿尔普海姆突然出现的谜之剑士《绝剑》。对亚丝娜而言，那是又一次《命运的相会》。
+
 - [01-02](saoex4-zekken/saoex4-01.md)
 - [03-04](saoex4-zekken/saoex4-02.md)
-- 05-07
+- [05-07](saoex4-zekken/saoex4-03.md)
 - 08-09
 - 10-11
 - An additional epilogue
@@ -89,6 +103,9 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 - [03-04](saoex1-3/saoex1-3-02.md)
 
 ## Sword Art Online 4: Alicization (2005.Jan.31-2008.Jul.25)
+
+> 消失在网络的混沌世界中的茅场的残留意识。不断无限增殖的The SEED世界。当谜之男人——菊冈真正的目的露出冰山一角的时候，将所有VRMMO玩家卷入其中的最后之战拉开了帷幕。
+
 ### Chapter 1: Kirito in Underworld (2005.Jan.31-2005.Jun.14)
 
 - 01-02
