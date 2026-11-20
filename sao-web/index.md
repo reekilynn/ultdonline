@@ -92,7 +92,7 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 - [01-02](saoex4-zekken/saoex4-01.md)
 - [03-04](saoex4-zekken/saoex4-02.md)
 - [05-07](saoex4-zekken/saoex4-03.md)
-- 08-09
+- [08-09](saoex4-zekken/saoex4-04.md)
 - 10-11
 - An additional epilogue
 - Afterword by Kunori
