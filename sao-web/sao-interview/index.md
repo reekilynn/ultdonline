@@ -46,9 +46,9 @@
 |第27位|[艾莉莎·露](sao-interview-15.md)|1票（1票）|
 |第27位|[艾基尔的妻子](sao-interview-15.md)|1票（1票）|
 |||
-|番外|[Kunori（九里史生）](sao-interview-ex1.md)|30票（32票）|
-|番外|[藤谷多加子](sao-interview-ex2.md)|1票（1票）|
-|番外|[空木实](sao-interview-ex2.md)|1票（1票）|
+|番外|[Kunori（九里史生）](sao-interview-ex01.md)|30票（32票）|
+|番外|[藤谷多加子](sao-interview-ex02.md)|1票（1票）|
+|番外|[空木实](sao-interview-ex02.md)|1票（1票）|
 
 &emsp;
 
