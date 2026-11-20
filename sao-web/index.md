@@ -93,9 +93,9 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 - [03-04](saoex4-zekken/saoex4-02.md)
 - [05-07](saoex4-zekken/saoex4-03.md)
 - [08-09](saoex4-zekken/saoex4-04.md)
-- 10-11
-- An additional epilogue
-- Afterword by Kunori
+- [10-11](saoex4-zekken/saoex4-05.md)
+- [An additional epilogue](saoex4-zekken/saoex4-06.md)
+- [Postscript by Kunori](saoex4-zekken/saoex4-atogaki.md)
 
 ## Sword Art Online Ex1.3: 赤鼻のトナカイ (2005.Dec.23-2005.Dec.29)
 
