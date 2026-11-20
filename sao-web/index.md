@@ -158,5 +158,7 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 ### Reader Comments and Kunori Responses (2008.Sep.12)
 ## Sword Art Online X2: たったひとつの究極的なやりかた (2010.May.4)
 ## Sword Art Online: Face To Face Interview
-### Main Content
-### Reverse Content
+
+In 2005, Kawahara held the third popularity poll for characters from the Sword Art Online series and invited fans to submit questions about the characters. The results were announced on December 24, 2005.
+
+- [Results of the Third SAO Series Character Poll](sao-interview/index.md)
