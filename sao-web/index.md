@@ -109,7 +109,7 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 ### Chapter 1: Kirito in Underworld (2005.Jan.31-2005.Jun.14)
 
 - [01-02](sao4-alicization/sao4-1-01.md)
-- 03-04
+- [03-04](sao4-alicization/sao4-1-02.md)
 
 ### Chapter 2: Soul Translation (2005.Jun.22-2005.Jul.15)
 
