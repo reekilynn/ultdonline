@@ -118,7 +118,7 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 
 ### Chapter 3: Underworld-Nord (2005.Jul.26-2005.Oct.9)
 
-- 01-02
+- [01-02](sao4-alicization/sao4-3-01.md)
 - 03-04
 - 05-06
 
