@@ -113,8 +113,8 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 
 ### Chapter 2: Soul Translation (2005.Jun.22-2005.Jul.15)
 
-- 01-03
-- Interlude I
+- [01-03](sao4-alicization/sao4-2-01.md)
+- [Interlude I](sao4-alicization/sao4-2-02.md)
 
 ### Chapter 3: Underworld-Nord (2005.Jul.26-2005.Oct.9)
 
