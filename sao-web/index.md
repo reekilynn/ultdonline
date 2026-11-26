@@ -119,8 +119,8 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 ### Chapter 3: Underworld-Nord (2005.Jul.26-2005.Oct.9)
 
 - [01-02](sao4-alicization/sao4-3-01.md)
-- 03-04
-- 05-06
+- [03-04](sao4-alicization/sao4-3-02.md)
+- [05-06](sao4-alicization/sao4-3-03.md)
 
 ### Chapter 4: Ocean Turtle (2005.Oct.18-2006.Jan.19)
 
