@@ -124,7 +124,7 @@ In early 2009, Kunori Fumio packed the web edition into a zipped archive for dis
 
 ### Chapter 4: Ocean Turtle (2005.Oct.18-2006.Jan.19)
 
-- 01-03
+- [01-03](sao4-alicization/sao4-4-01.md)
 
 ### Chapter 5: Sword Academy (2006.Jan.20-2006.Feb.24)
 
