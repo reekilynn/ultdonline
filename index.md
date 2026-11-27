@@ -3,6 +3,9 @@
 Here is a repository for remastered SimpChn translation of novels created by Kunori Fumio.
 The planned translation repository includes novels listed below.
 
+Click here for the acknowledgement list.
+
+
 ## Sword Art Online (Web)
 The major creation of Kunori Fumio from Nov 2002 to Jul 2008.
 See [here](sao-web/index.md) for details.
