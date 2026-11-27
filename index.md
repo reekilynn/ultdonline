@@ -3,7 +3,7 @@
 Here is a repository for remastered SimpChn translation of novels created by Kunori Fumio.
 The planned translation repository includes novels listed below.
 
-Click here for the acknowledgement list.
+[Click here for the acknowledgement list](acknowledgement.md).
 
 
 ## Sword Art Online (Web)
