@@ -32,7 +32,7 @@ Translation: 邪恶霜精
 ### Material Edition Related
 
 - [Text Contents for SAO Material Edition: The Assemblage](sao-me/sao-me-p1-contents.md)
-- [Postscripts for SAO Material Edition: 08-29](sao-me/sao-me/sao-me-p2-atogaki.md)
+- [Postscripts for SAO Material Edition: 08-29](sao-me/sao-me-p2-atogaki.md)
 
 ## Chouzetsu Kasoku Burst Linker
 The original web published version of **Accel World** Vol.01 in Oct 2007.
