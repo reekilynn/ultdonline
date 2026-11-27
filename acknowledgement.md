@@ -124,7 +124,7 @@ RATH Observation Group
 
 Alfheim Translation Group
 
-- Yuuki Asuna
+- Shiozuki
 - Fen
 - Sei
 - Kayuki
@@ -147,12 +147,12 @@ Alfheim Translation Group
 - cooper
 - Kutsuki Kamui
 - Tokiya Kazu
-- Yuuki Asuna
+- Shiozuki
 - SAWAHIRO
 - M-G
 
 ### Sword Art Online Material Vol.01: Sugary Days
 
 - KCMasaki
-- Yuuki Asuna
+- Shiozuki
 - SAWAHIRO
