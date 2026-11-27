@@ -1,4 +1,4 @@
-# Sword Art Online Material Edition 同人志版后记合集 Part 2
+# SAO Material Edition 同人志版后记合集
 
 ## ME08 胧幻剑的Rondo 第一章
 
