@@ -54,6 +54,13 @@ A *meta-dimension* and *self-definition* novel (**Not Finished**) written in 200
 - [Chapter 3](metabolic/chap03.md)
 - [TL Postscript](metabolic/postscript.md)
 
+## Kunori Fumio Short Stories Collection
+Collection of short stories written by Kunori Fumio.
+- Fortune Star
+- Plane Shift
+- Saver Resetter
+- Water Works
+
 ## Yuexiang
 A *trans-gender* and *yuri* and *siscon* **R-18** visual novel released on Dec 2003.
 
